@@ -7,3 +7,14 @@
   name = "Documentation"
   url = "docs/"
   weight = 10
+
+
+[[main]]
+  name = "Python"
+  url = "python/"
+  weight = 20
+
+[[main]]
+  name = "Data Acquisition"
+  url = "dacq/"
+  weight = 30

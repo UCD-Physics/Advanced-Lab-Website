@@ -1,0 +1,33 @@
+---
+title: National Instruments USB 6008/6009
+linktitle: NI USB 6008/6009
+
+toc: true
+type: book
+weight: 20
+--- 
+
+{{< figure src="NI_USB6008.png" title="Figure: NI USB 6008" lightbox="true" width="300" >}}
+
+## Introduction
+
+The [National Instruments USB
+6008](https://www.ni.com/en-ie/support/model.usb-6008.html) is a
+multi-function USB Data Acquisition device. There is also a
+higher-performance version, the [USB 6009](https://www.ni.com/en-ie/support/model.usb-6009.html),
+of which there are a couple in the APL, but they are identical to program.
+
+
+| Feature | NI USB-6008 | NI USB-6009 |
+|---------|-------------|-------------|
+| AI | 12 bits differential, 11 bits single-ended | 14 bits differential, 13 bits single-ended | 
+| 
+
+## USB 6008 Specifications
+
+| Feature | Specifcation  |
+|--------|-------------|
+| ADC   | 8 x 11-bit single-ended mode - range ±10 V <br/> 4 x 12-bit differential mode  - ranges: ± 20V* , ±10V,  ±5 V, ±4 V, ±2.5 V, ±2 V, ±1.25 V, ±1 V <br> * both AI+ and AI- mist be within ±10V of ground < br/> Built-in amplifier which amplifies signal to match ADC range - tell it in software which range to use. <br/> 10 
+ |
+| DAC | 2  × 12-bit, 0-5V range, 150 Hz max. (software timed ) |
+| Digital I/O | P0 <0..7>  8 Digital Lines >br/> P1 <0..3>  4 Digital Lines <br/> P0 and P1 programmables independently as inputs or outputs, or together |

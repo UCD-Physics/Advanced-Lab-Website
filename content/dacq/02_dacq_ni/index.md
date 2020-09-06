@@ -58,7 +58,7 @@ There are also difference in the Digital I/O, but this is not a concern in the A
 | ADC   | 8 × 11-bit single-ended mode - range ±10 V <br/> 4 × 12-bit differential mode  - ranges: ± 20V* , ±10V,  ±5 V, ±4 V, ±2.5 V, ±2 V, ±1.25 V, ±1 V <br/> * both AI+ and AI- mist be within ±10V of ground <br/>  A built-in amplifier matches signal ADC range - specify in software|
 | DAC | 2  × 12-bit, 0-5V range, 150 Hz max. (software timed ) |
 | Digital I/O | P0 <0..7>  8 Digital Lines <br/> P1 <0..3>  4 Digital Lines <br/> P0 and P1 programmables independently as inputs or outputs, or together |
-
+| Digital Counter | 1 × 32-bit, count up on falling edge <br/> max. freq.: 5 MHz, min. pulse hi/lo: 100 ns <br/> Hi: >2.0V, Lo<0.8V  | 
 <br/>
 
 ## USB-6008 Connections

@@ -19,6 +19,10 @@ type: book
 
 # table fo contents on right-hand side
 toc: false
+
+tags:
+- DACQ
+
 ---
 
 ## Introdution

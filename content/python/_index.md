@@ -19,6 +19,10 @@ type: book
 
 # table fo contents on right-hand side
 toc: false
+
+tags:
+- Python
+
 ---
 
 {{< figure src="python.png" title="" lightbox="true" width="200" >}}

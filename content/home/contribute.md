@@ -53,4 +53,4 @@ hero_media = "github.svg"
 #label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-Source material - contributions and corrections welcome!
+Source material on github - contributions and corrections welcome!

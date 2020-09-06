@@ -18,3 +18,9 @@
   name = "Data Acquisition"
   url = "dacq/"
   weight = 30
+
+
+[[main]]
+  name = "Data Analysis"
+  url = "data_analysis/"
+  weight = 30

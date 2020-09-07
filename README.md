@@ -1,4 +1,5 @@
 # Introduction
+This respoitory houses the content of a web site to support the Stage 3 and Stage 4 Advanced Laboratories in the UCD School of Physics.
 
 This website is built starting with the Book Template from the [Hugo](https://gohugo.io) [Academic / Wowchemy](https://wowchemy.com) theme and the original Readme is appended below.
 

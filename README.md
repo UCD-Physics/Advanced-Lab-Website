@@ -9,9 +9,9 @@ Please see the [Wowchemy](https://wowchemy.com) web site for how to install Hugo
 
 # Contributing
 
-All content is contained on the content folder with each of the sections contained in a folder. Within each section each page has its own folder which contains an index.md file and images (visible only to the corresponding index.md file). 
+All content is contained in the `content` folder with each of the sections (e.g. Python, Data Acquisition, Data Analysis) contained in a folder within.`content`  Within each section each page has its own folder which contains an index.md file and images (visible only to the corresponding index.md file). 
 
-Generally accessible images, such as in the home page are stored in static/media.
+Generally accessible images, such as in the home page are stored in static/media/.
 
 If you wish to contribute corrections or additions then please fork this repository and do a pull request.
 

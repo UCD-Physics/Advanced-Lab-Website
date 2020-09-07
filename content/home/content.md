@@ -19,7 +19,7 @@ weight = 15
 
 +++
 
-{{< figurejq width=100 src="Python_icon_blue.svg" library="true" link="python/" lightbox="false">}}
+{{< figurejq width=100 src="Python-logo-notext.svg" library="true" link="python/" lightbox="false">}}
 <center><H2>Python</H2></center>
 <br/>
 

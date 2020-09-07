@@ -12,6 +12,7 @@ All content is contained on the content folder with each of the sections contain
 
 Generally accessible images, such as in the home page are stored in static/media.
 
+If you wish to contribute corrections or additions then please fork this repository and do a pull request.
 
 # Original Readme:
 

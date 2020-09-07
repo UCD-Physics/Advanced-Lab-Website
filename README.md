@@ -4,7 +4,7 @@ This website is built starting with the Book Template from the [Hugo](https://go
 
 # Installing
 
-Please see the [Wowchemy](https://wowchemy.com) web site for how to install. Note: this installation is for a local computer and not using netlify.
+Please see the [Wowchemy](https://wowchemy.com) web site for how to install Hugo and Wowchemy, then fork or clone this repository to your own machine. Note: this repository is set up for a local computer and not using netlify. 
 
 # Contributing
 

@@ -20,16 +20,20 @@ or
 
  * taking an analogue signal and converting it into a digital signal which is sent to the computer.
 
-<br/>
 
-Sometimes direct digital signals are sent to control
-devices which have on/off states or to provide 'clock' signals for example to
-move stepper motors. Thus, the common nomenclature is:
+The common nomenclature is:
 
 | Term | Acronym | Meaning |
 |------|---------|---------|
 | Digitial-to-Analogue Converter | DAC | Takes a digital signal (from computer) and convert to an analogue output signal|
 | Analogue-Digital Converter | ADC | Converts an analogue signal to digital for recording by the computer  |
+
+
+<br/>
+
+In addition, sometimes digital signals are sent directy to control
+devices which have on/off states or to provide 'clock' signals for example to
+move stepper motors.
 
 <br/>
 
@@ -61,18 +65,24 @@ or 0). The number of possible values is given by $2^8=256$ (0 to 255)
 test including python code:
 
 ```python
-from pydaqmx_helper.adc import ADC
-
-myADC = ADC()
-myADC.addChannels([0])
-val = myADC.readVoltage()
-print(val)
+sample code!
 ```
+
+<br/>
+
+## Digital Signal Representation
+
+The process of digitising a signal involves a converting a continuous analogues signal
+into a discrete digital signal. This invoves discretisation of the signal size/value and
+in time: the digitised signal only has discrete values at discrete times, called _samples_.
+
 
 <br/>
 
 ## Resolution
 Since computers only store digital values digitised values are discrete. The number of bits combined with the range of the ADC or DAC determines the resolution. For example, an 8-bit ADC with a range of 5V has a resolution of ~0.0195V (5V/256) while a 12-bit ADC with a range of 5V has a resolution of 0.0012V (5V/4096).
+
+
 
 <br/>
 

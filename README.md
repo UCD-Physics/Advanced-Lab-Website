@@ -1,6 +1,25 @@
+# Introduction
+This respoitory houses the content of a web site to support the Stage 3 and Stage 4 Advanced Laboratories in the UCD School of Physics.
+
+This website is built starting with the Book Template from the [Hugo](https://gohugo.io) [Academic / Wowchemy](https://wowchemy.com) theme and the original Readme is appended below.
+
+# Installing
+
+Please see the [Wowchemy](https://wowchemy.com) web site for how to install Hugo and Wowchemy, then fork or clone this repository to your own machine. Note: this repository is set up for a local computer and not using netlify. 
+
+# Contributing
+
+All content is contained in the `content` folder with each of the sections (e.g. Python, Data Acquisition, Data Analysis) contained in a folder within.`content`  Within each section each page has its own folder which contains an index.md file and images (visible only to the corresponding index.md file). 
+
+Generally accessible images, such as in the home page are stored in static/media/.
+
+If you wish to contribute corrections or additions then please fork this repository and do a pull request.
+
+# Original Readme:
+
 <!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
-# Book Template for [Wowchemy Website Builder](https://wowchemy.com)
+## Book Template for [Wowchemy Website Builder](https://wowchemy.com)
 
 The **Book Template** empowers you to create **product documentation**, **digital books**, **personal notes**, and **knowledge bases**.
 
@@ -15,11 +34,11 @@ The **Book Template** empowers you to create **product documentation**, **digita
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
 - ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
 
-## Crowd-funded open-source software
+### Crowd-funded open-source software
 
 To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+#### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
 <!--
 [![Screenshot]()](https://github.com/wowchemy/starter-book)

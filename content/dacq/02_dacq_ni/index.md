@@ -232,13 +232,100 @@ samples2=data[2]  # tuple of samples associated with channel with id 2
 
 ### Programming the DAC
 
+The USB-6008 has two independent DAC channels. They are programmed
+from Python as follows:
+ * Import the `DAC` class from `pydaqmx_helper.dac`:
+   ```python
+   from pydaqmx_helper.dac import DAC
+   ```
+ * Make an instance of the DAC class, specifying which channel (`0` or `1`) to use,
+   e.g. to use channel `0`:
+   ```python
+   myDAC = DAC(0)
+   ```
+ * Write the voltage to it, e.g. to produce an output voltage of 2.62 V:
+    ``` python
+   myDAC.writeVoltage(2.62)
+   ```
+
+{{% alert note %}}
+The DAC class works differently to the ADC class: with the ADC class you make
+one instance of the class and add the channels, with the DAC class you specify
+the channel when an instance is created. If you want to use both DAC channels you
+need to make two instances of the class!
+{{% /alert %}}
+
 <br/>
 
-### Programming the Digital I/O
+### Programming the Digital I/O Ports
+The USB 6008 has an 8-bit port I/O (P0) and a 4-bit I/O port (P1) that can
+be used individually or together as a single 12-bit port.
+
+Usage:
+  * Import the Digital_IO class
+    ```python
+    from pydaqmx_helper.digital_io import Digital_IO
+    ```
+  * Make an instance of the class. The `Digital_IO` class
+    takes two (optional) arguments specifying the port and direction:
+      * Options for `port` are: '`0`' for P0, '`1`' for P1 or '`0:1`' for both combined (default)
+      * Options for direction are '`input`' or '`output`' (default).
+    e.g.
+    ```python
+    myDigital_IO = Digital_IO()   # use defaults
+    ```
+    or
+    ```
+    python
+    myDigital_IO = Digital_IO('0' 'input')  # P0 set up for output
+    ```
+  * If the port is set as an input then you can read from it using `read()`:
+    ```python
+    val=myDigital_IO.read() 
+    ```
+
+  * If the port is set as an output then you can write a value to it using `write(val)`,
+    which returns a string representaiton of the binary numbers written out:
+    ```python
+    ans=myDigital_IO.write(255)  # write out binary 11111111: returns `0b11111111`
+    ```
+    Note it is he low bits of `val` get written to the port.
 
 <br/>
 
 ### Programming the Digital Counter
+
+The 32-bit counter (pin PFI0) counts on the falling edge of a digital pulse.
+
+Usage:
+ * Import the counter class:
+   ```python
+   from pydaqmx_helper.counter import Counter
+   ```
+   
+ * Make an instance of the counter class:
+   ```python
+   myCounter = Counter()
+   ```
+
+ * When ready, start counting:
+   ```python
+   myCounter.start()
+   ```
+
+ * Read out the number of counts at any time with:
+   ```python
+   val=myCounter.getCount()
+   ```
+
+* Read, stop and reset with:
+   ```python
+   val=myCounter.stop()
+   ```
+   Note: start() re-starts counting from 0.
+
+The Python [sleep](broken link) function is useful to use with the counter.
+
 
 <br/>
 

@@ -37,7 +37,7 @@ hero_media = "github.svg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/UCD-Physics"
+  url = "https://github.com/UCD-Physics/Advanced-Lab-Website/"
   label = "Contribute"
   icon_pack = "fab"
   icon = "github"

@@ -18,7 +18,7 @@ type: book
 # weight: 1
 
 # table fo contents on right-hand side
-toc: false
+toc: true
 
 tags:
 - Python

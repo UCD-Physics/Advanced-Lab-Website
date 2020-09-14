@@ -15,7 +15,8 @@ weight: 10
 
 Computers are digital systems and and at he most basic level store
 information as sequences of bits (electronic states representing a 0 or 1,
-for more information on volatges and logic levels see [here](https://www.allaboutcircuits.com/textbook/digital/chpt-3/logic-signal-voltage-levels/)).
+for more information on volatges and logic levels see
+[here](https://www.allaboutcircuits.com/textbook/digital/chpt-3/logic-signal-voltage-levels/)).
 Since there are only a finite number of ways of arranging a number of bits,
 digital numbers are thus restricted to finite range of values.
 Similarly, computer memory is finite and so is the number of digital
@@ -108,19 +109,6 @@ It is very important to match the ADC to the signal you are measuring, or to
 amplify the signal to an appropriate level.
 
 {{% /alert %}}
-
-## Digital Signal Representation
-
-The process of digitising a signal involves a converting a continuous analogues signal
-into a discrete digital signal. This invoves discretisation of the signal size/value and
-in time: the digitised signal only has discrete values at discrete times, called _samples_.
-
-
-<br/>
-
-## Resolution
-Since computers only store digital values digitised values are discrete. The number of bits combined with the range of the ADC or DAC determines the resolution. For example, an 8-bit ADC with a range of 5V has a resolution of ~0.0195V (5V/256) while a 12-bit ADC with a range of 5V has a resolution of 0.0012V (5V/4096).
-
 
 
 <br/>

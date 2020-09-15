@@ -7,7 +7,7 @@ type: book
 draft: false
 
 weight: 10
---- 
+---
 
 {{% toc %}}
 
@@ -15,7 +15,8 @@ weight: 10
 
 Computers are digital systems and and at he most basic level store
 information as sequences of bits (electronic states representing a 0 or 1,
-for more information on volatges and logic levels see [here](https://www.allaboutcircuits.com/textbook/digital/chpt-3/logic-signal-voltage-levels/)).
+for more information on volatges and logic levels see
+[here](https://www.allaboutcircuits.com/textbook/digital/chpt-3/logic-signal-voltage-levels/)).
 Since there are only a finite number of ways of arranging a number of bits,
 digital numbers are thus restricted to finite range of values.
 Similarly, computer memory is finite and so is the number of digital
@@ -41,7 +42,6 @@ or
 
 * taking an analogue signal and converting it into a digital signal which is sent to the computer.
 
-<br/>
 
 Sometimes direct digital signals are sent to control
 devices which have on/off states or to provide 'clock' signals for example to
@@ -53,6 +53,13 @@ The common nomenclature is:
 |------|---------|---------|
 | Digitial-to-Analogue Converter | DAC | Takes a digital signal (from computer) and convert to an analogue output signal|
 | Analogue-Digital Converter | ADC | Converts an analogue signal to digital for recording by the computer  |
+
+
+<br/>
+
+In addition, sometimes digital signals are sent directy to control
+devices which have on/off states or to provide 'clock' signals for example to
+move stepper motors.
 
 <br/>
 
@@ -137,6 +144,4 @@ It is critical to sample at a rate greater than the Nyquist critical frequency (
 A remarkable fact about the Nyquist sampling theorem is than once you have met the samplig
 criterion, all of the information about the original signal is captured in the samples and the
 the original signal can be completely reconstructed from the them. This has
-many applications in science, engineering, telecommunications etc. 
-
-
+many applications in science, engineering, telecommunications etc.

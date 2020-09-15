@@ -26,7 +26,7 @@ two figures below:
 
 {{< figure src="sine.png" title="Figure: Sine function" lightbox="true" width="400" >}}
 
-{{< figure src="sine_dig.png" title="Figure: Digitised sine function" lightbox="true" width="400" >}}
+{{< figure src="sine_dig.png" title="Figure: Digitised version of above sine function" lightbox="true" width="400" >}}
 
 
 
@@ -84,7 +84,7 @@ or 0). The number of possible values is given by 2<sup>8</sup>=256 (0 to 255)
 
 ## Binary in Python
 
-Please see the secion in Python on binary numbers...
+Please see the secion in Python on binary numbers... (link to be added)
 
 
 <br/>
@@ -100,14 +100,13 @@ The affect of the number of
 bits on the amplitude resolution can be seen in the figures below:
 
 {{< figure src="sine.png" title="Figure: Sine function" lightbox="true" width="400" >}}
-{{< figure src="dig_2.png" title="Figure: Digitised Sine function (2-bit ADC)" lightbox="true" width="400" >}}
-{{< figure src="dig_4.png" title="Figure: Digitised Sine function (4-bit ADC)" lightbox="true" width="400" >}}
-{{< figure src="dig_6.png" title="Figure: Digitised Sine function (6-bit ADC)" lightbox="true" width="400" >}}
+{{< figure src="dig_2.png" title="Figure: Digitised Sine function (2-bit ADC - 4 levels)" lightbox="true" width="400" >}}
+{{< figure src="dig_4.png" title="Figure: Digitised Sine function (4-bit ADC - 16 levels" lightbox="true" width="400" >}}
+{{< figure src="dig_6.png" title="Figure: Digitised Sine function (6-bit ADC - 64 levels)" lightbox="true" width="400" >}}
 
 {{% alert note %}}
 It is very important to match the ADC to the signal you are measuring, or to
 amplify the signal to an appropriate level.
-
 {{% /alert %}}
 
 
@@ -129,7 +128,7 @@ As can be seen signals of the wrong frequencies appear (*aliasing*) when the sam
 the frequency of the signal.
 
 {{< figure src="alias_022.png" title="Figure: Sampling at f<sub>s</sub> = 1.8 f " lightbox="true" width="800" >}}
-{{< figure src="alias_025.png" title="Figure: Sampling at f<sub>s</sub> = 1.8 f" lightbox="true" width="800" >}}
+{{< figure src="alias_025.png" title="Figure: Sampling at f<sub>s</sub> = 0.95 f" lightbox="true" width="800" >}}
 
 ### The Nyquist Sampling Criterion
 The [Nyquist Sampling Theorem](https://en.wikipedia.org/wiki/Nyquist–Shannon_sampling_theorem) states that to
@@ -141,7 +140,8 @@ sine wave this may also be states as a minimum of two points per cycle.
 It is critical to sample at a rate greater than the Nyquist critical frequency (twice the highest frequency present) to avoid aliasing.
 {{% /alert %}}
 
-A remarkable fact about the Nyquist sampling theorem is than once you have met the samplig
+A remarkable fact about the Nyquist sampling theorem is than once you have met the sampling
 criterion, all of the information about the original signal is captured in the samples and the
 the original signal can be completely reconstructed from the them. This has
-many applications in science, engineering, telecommunications etc.
+many applications in science, engineering, telecommunications etc. and, for example,
+[why CD players use 44,100 Hz sampling](https://en.wikipedia.org/wiki/44,100_Hz)

@@ -28,8 +28,8 @@ toc: false
 ### Everyone should wear a face mask.
 Anyone who cannot wear a mask should contact emma.sokell@ucd.ie
 
-### You should sign in/out of the lab using the Google form.
-(*Google form link details to be provided here*). This information will be used for keeping lab
+### You should sign in/out of the lab using the Google form accessed via the QR codes posted in the labs.
+This information will be used for keeping lab
 attendance records and COVID-19 contact tracing if required.
 
 ### General rules
@@ -69,5 +69,4 @@ attendance records and COVID-19 contact tracing if required.
  
  14. Computational experiments, introductory exercised, data analysis
      and report writing to be done remotely. Interactions with staff
-     (questions/interviews) to be arranged via email and conducted
- remotely, where possible.
+     (questions/interviews) to be arranged via email and conducted remotely, where possible.

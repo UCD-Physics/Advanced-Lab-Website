@@ -49,6 +49,8 @@ hero_media = "covid.svg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
+ label = ""
+
 
 #label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++

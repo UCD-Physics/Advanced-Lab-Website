@@ -3,6 +3,8 @@ title: Documentation
 date: 2019-05-05
 type: book
 toc: false
+icon: book
+icon_pack: fas
 ---
 
 The documentaion here is under development and will be updated frequently.
@@ -14,4 +16,7 @@ Here is a link to a [Python language cheat sheat](https://perso.limsi.fr/pointal
 
 Here are links to a [Numpy cheat sheet](https://www.dataquest.io/blog/numpy-cheat-sheet) and [another one](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 
-{{< list_children >}} 
+## Topics:
+
+{{< list_children >}}
+

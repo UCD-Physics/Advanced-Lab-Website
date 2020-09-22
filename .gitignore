@@ -7,3 +7,6 @@ public/
 
 # OS X
 .DS_Store
+
+# emacs
+*~

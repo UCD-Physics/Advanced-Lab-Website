@@ -1,8 +1,10 @@
 ---
 title: Python Version and Distribution
-linktitle: Get Python
+linktitle: Download Python
 date: 2020-09-04
 type: book
+icon: download
+icon_pack: fas
 ---
 
 ## Python 3

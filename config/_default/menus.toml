@@ -5,6 +5,11 @@
 
 
 [[main]]
+  name = "Information"
+  url = "info/"
+  weight = 10
+
+[[main]]
   name = "Python"
   url = "python/"
   weight = 20
@@ -20,9 +25,4 @@
   url = "data_analysis/"
   weight = 40
 
-
-[[main]]
-  name = "Misc. Docs"
-  url = "docs/"
-  weight = 50
 

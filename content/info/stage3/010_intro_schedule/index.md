@@ -16,7 +16,7 @@ type: book  # Do not modify.
 ### Week 1:
 #### Tuesday September 22
  * 2pm: Stage 3 APL Introduction (Assoc. Prof. Emma Sokell). [[Slides]](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/Stage3_Lab_Intro2021.pdf)
- * 4pm: Python in the APL (Assoc. Prof. John Quinn) [[Slides]](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/Stage3_Python_Intro_2020.pdf)
+ * 4pm: Python in the APL (Assoc. Prof. John Quinn) [[Slides]](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/Stage3_Python_Intro_2020.pdf) [[mp4]](https://media.heanet.ie/page/70b8f04df9784da18d1fe348800b7836)
 
 #### Wednesday September 23
  * 2pm-6pm: Python Problems, hands-on (with staff support on Zoom) [[Problems]](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/Stage3_Python_Problems_2020.pdf)

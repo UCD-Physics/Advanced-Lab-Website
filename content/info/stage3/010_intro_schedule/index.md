@@ -24,7 +24,7 @@ type: book  # Do not modify.
 #### Thursday September 24
  * 2pm-4pm: Data Analysis I, Group 1[^1] (with staff support on Zoom)
  * 4pm-6pm: Data Analysis I, Group 2[^2] (with staff support on Zoom)
- * Downloads: [Jupyter Notebook template](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/AdvLabDataWeek1-Sept2020.ipynb) and [counts.dat](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/counts.dat)
+ * Downloads: [Jupyter Notebook template](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/AdvLabDataWeek1-Sept2020.ipynb) and [counts.dat](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/counts.dat). (Right-click or control click and select *"download linked file as"*. Some browsers add .txt as an extension - if your's does then please remove/rename so that the extension of the notebook is .ipynb and the counts file extension is .dat)
 
 ### Week 2 
 #### Tuesday September 29

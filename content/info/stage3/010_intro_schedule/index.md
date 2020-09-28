@@ -37,7 +37,7 @@ type: book  # Do not modify.
 
 
 #### Wednesday September 30
- * 2pm-3pm: Report Writing (Assoc. Prof. Emma Sokell)
+ * 2pm-3pm: Report Writing (Assoc. Prof. Emma Sokell). Downloads: [Manual.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/Manual.pdf), [Report.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/Report.pdf)
  * 3pm-4pm: Data Acquisition in Python (Assoc. Prof. John Quinn) [[online documentation]]({{< ref "/dacq/" >}})
 
 #### Thursday October 1

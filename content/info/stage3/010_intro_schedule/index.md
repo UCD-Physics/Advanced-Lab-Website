@@ -21,7 +21,7 @@ The four introductory exercise sets, **which must be submitted as a single PDF t
 | Python  | 40%      | [Stage3_Python_Problems_2020.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/Stage3_Python_Problems_2020.pdf) | 
 | Data Analysis I | 20% | [Jupyter Notebook template I](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/AdvLabDataWeek1-Sept2020.ipynb), [counts.dat](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/counts.dat) | 
 | Data Analysis II | 20% |  [Jupyter Notebook template II](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/AdvLabDataWeek2-Sept2020.ipynb), [thermocouple.dat](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/thermocouple.dat) |
-| Statistics and Error Analysis | 20%| [Error_Analysis_Problems_2020.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/Error_Analsyis_Problems_2020.pdf) |
+| Statistics and Error Analysis | 20%| [Error_Analysis_Problems_2020.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/Error_Analysis_Problems_2020.pdf) |
 
 The introductory exercises are in place of one experiment for 2020-2021 and worth 2.5 credits.
 

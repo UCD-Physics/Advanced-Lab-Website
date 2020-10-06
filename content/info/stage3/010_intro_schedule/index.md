@@ -41,7 +41,7 @@ type: book  # Do not modify.
  * 3pm-4pm: Data Acquisition in Python (Assoc. Prof. John Quinn) [[online documentation]]({{< ref "/dacq/" >}})
 
 #### Thursday October 1
- * 2pm-3pm: Statistics and Data Analysis Quickstart (Assoc. Prof. John Quinn)
+ * 2pm-3pm: Statistics and Data Analysis Quickstart (Assoc. Prof. John Quinn) [Slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/Error_and_Data_Analysis_2020.pdf)
 
 
 

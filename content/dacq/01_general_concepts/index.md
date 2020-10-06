@@ -43,9 +43,6 @@ or
 * taking an analogue signal and converting it into a digital signal which is sent to the computer.
 
 
-Sometimes direct digital signals are sent to control
-devices which have on/off states or to provide 'clock' signals for example to
-move stepper motors.
 
 The common nomenclature is:
 

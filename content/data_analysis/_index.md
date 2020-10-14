@@ -23,12 +23,10 @@ toc: false
 ---
 
 ## Introdution
-Lots of lovely content to go here!
+Here are links to the presentations as part of the Wednesday Data Analysis Tutorials for the Advanced Lab.
 
-$$P(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{(x - \mu)^2}{2\sigma^2}} $$
+* Measurement Probability Distributions: [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Measurement_Probability_Distributions.pdf) 
 
 
-## Content:
 
-{{< list_children >}}
 

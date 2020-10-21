@@ -25,7 +25,9 @@ toc: false
 ## Introdution
 Here are links to the presentations as part of the Wednesday Data Analysis Tutorials for the Advanced Lab.
 
-* Measurement Probability Distributions: [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Measurement_Probability_Distributions.pdf) 
+* Measurement Probability Distributions: [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Measurement_Probability_Distributions.pdf)
+* Zoom Recordings:
+[Tutorial 2020-10-14.mp4](https://media.heanet.ie/page/7fadadb3273e4587be13aa5f76363878)
 
 
 

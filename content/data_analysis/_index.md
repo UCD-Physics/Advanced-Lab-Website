@@ -31,10 +31,14 @@ Measurement Probability Distributions:
 [2020-10-14.mp4](https://media.heanet.ie/page/7fadadb3273e4587be13aa5f76363878), [2020-10-21.mp4](https://media.heanet.ie/page/c3e9107bc65a49a786f4e11ed3b0d95e)
 
 
-
 Propagation of Errors and the Variance-Covariance Matrix:
 *  [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Error_Propagation.pdf)
-* Zoom Recordings:
+* Zoom Recordings: [2020-10-28.mp4](https://media.heanet.ie/page/057fe99ac91343578e7cd80fd026a7d7)
+
+
+Curve Fitting:
+*  [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Curve_Fitting.pdf)
+* Zoom Recordings: 
 
 
 

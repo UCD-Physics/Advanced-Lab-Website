@@ -41,7 +41,7 @@ Curve Fitting:
 * Zoom Recordings: [2020-11-04.mp4](https://media.heanet.ie/page/0703a0e2eb3f449daf949dc5fea3be7b)
 
 (Computer) Matrix Propagaion of Errors:
-*  [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Matrix-Methods-for-Error-Proagation.pdf)
+*  [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Matrix-Methods-for-Error-Propagation.pdf)
 * Zoom Recordings: 
 
 

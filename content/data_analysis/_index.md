@@ -38,7 +38,14 @@ Propagation of Errors and the Variance-Covariance Matrix:
 
 Curve Fitting:
 *  [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Curve_Fitting.pdf)
+* Zoom Recordings: [2020-11-04.mp4](https://media.heanet.ie/page/0703a0e2eb3f449daf949dc5fea3be7b)
+
+(Computer) Matrix Propagaion of Errors:
+*  [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Matrix-Methods-for-Error-Proagation.pdf)
 * Zoom Recordings: 
+
+
+
 
 
 

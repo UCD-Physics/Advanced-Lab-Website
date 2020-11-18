@@ -45,6 +45,11 @@ Curve Fitting:
 * Zoom Recordings: 
 
 
+Chi-squared Test for Goodness of fit:
+*  [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Chi-Squared-Goodness-of-Fit.pdf)
+* Zoom Recordings: 
+
+
 
 
 

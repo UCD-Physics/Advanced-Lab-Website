@@ -42,12 +42,13 @@ Curve Fitting:
 
 (Computer) Matrix Propagaion of Errors:
 *  [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Matrix-Methods-for-Error-Propagation.pdf)
-* Zoom Recordings: 
+* Zoom Recordings: [2020-11-11.mp4](https://media.heanet.ie/page/f9db98ca7e6040528ee7a5c98071920e)
 
 
 Chi-squared Test for Goodness of fit:
 *  [slides.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/DA/Chi-Squared-Goodness-of-Fit.pdf)
-* Zoom Recordings: 
+* Zoom Recordings: [2020-11-18.mp4](https://media.heanet.ie/page/23df37c625ea427cb86c8de3e93ee1e6)
+
 
 
 

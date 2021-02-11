@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Stage 3
 summary: information for Stage 3 APL
-weight: 1
+weight: 20
 icon: book-reader
 icon_pack: fas
 toc: false

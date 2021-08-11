@@ -9,13 +9,13 @@ draft: false
 weight: 10
 ---
 
-{{% toc %}}
+{{< toc hide_on="xl" >}}
 
 ## Analogue and Digital
 
 Computers are digital systems and and at he most basic level store
 information as sequences of bits (electronic states representing a 0 or 1,
-for more information on volatges and logic levels see
+for more information on voltages and logic levels see
 [here](https://www.allaboutcircuits.com/textbook/digital/chpt-3/logic-signal-voltage-levels/)).
 Since there are only a finite number of ways of arranging a number of bits,
 digital numbers are thus restricted to finite range of values.
@@ -101,10 +101,10 @@ bits on the amplitude resolution can be seen in the figures below:
 {{< figure src="dig_4.png" title="Figure: Digitised Sine function (4-bit ADC - 16 levels" lightbox="true" width="400" >}}
 {{< figure src="dig_6.png" title="Figure: Digitised Sine function (6-bit ADC - 64 levels)" lightbox="true" width="400" >}}
 
-{{% alert note %}}
+{{% callout note %}}
 It is very important to match the ADC to the signal you are measuring, or to
 amplify the signal to an appropriate level.
-{{% /alert %}}
+{{% /callout %}}
 
 
 <br/>
@@ -133,9 +133,9 @@ completely record all of the information in a signal it must be sampled at at le
 present, otherwise aliasing (the artifical transfer of power to lower frequencies occurs). For a perfect
 sine wave this may also be states as a minimum of two points per cycle.
 
-{{% alert note %}}
+{{% callout note %}}
 It is critical to sample at a rate greater than the Nyquist critical frequency (twice the highest frequency present) to avoid aliasing.
-{{% /alert %}}
+{{% /callout %}}
 
 A remarkable fact about the Nyquist sampling theorem is than once you have met the sampling
 criterion, all of the information about the original signal is captured in the samples and the

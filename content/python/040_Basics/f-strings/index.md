@@ -3,9 +3,12 @@ title: Python formatted string literals (f-strings)
 linktitle: f-strings
 date: 2019-05-05
 type: book
-toc: false
+toc: true
 ---
 # 
+
+ {{< toc hide_on="xl" >}}
+
 
 ## Introduction
 

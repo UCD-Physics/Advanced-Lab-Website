@@ -3,7 +3,7 @@
 title: Python for Physics Advanced Laboratories
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: Why Python? 
+linktitle: Python for Physics Labs
 
 # Page summary for search engines.
 summary: Python for UCD Physics Advanced Laboratories
@@ -25,7 +25,10 @@ tags:
 
 ---
 
+
 {{< figure src="python.png" title="" lightbox="true" width="200" >}}
+
+{{< toc hide_on="xl" >}}
 
 
 

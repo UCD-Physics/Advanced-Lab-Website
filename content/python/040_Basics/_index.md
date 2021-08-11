@@ -2,12 +2,14 @@
 title: Python Fundamentals
 date: 2019-05-05
 type: book
-toc: false
+toc: true
 icon: book
 icon_pack: fas
 ---
 
 The documentation here is under development and will be updated frequently.
+
+ {{< toc hide_on="xl" >}}
 
 
 ## Previous APL Python Slides:

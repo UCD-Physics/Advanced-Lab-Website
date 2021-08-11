@@ -29,9 +29,9 @@ libraries including [Scipy](https://www.scipy.org), [Numpy](https://numpy.org),
 [Matplotlib](https://matplotlib.org), [AstroPy](https://www.astropy.org) and more. It is available for
 Linux, Windows and Mac OS X.
 
-{{% alert note %}}
+{{% callout note %}}
 [Download Anaconda here](https://www.anaconda.com/products/individual)
-{{% /alert %}}
+{{% /callout %}}
 
 <br/>
 
@@ -39,8 +39,8 @@ Linux, Windows and Mac OS X.
 
 Python 2 was officially [sunset](https://www.python.org/doc/sunset-python-2/) in early 2020. 
 
-{{% alert warning %}}
+{{% callout warning %}}
 A lot of basic Python 3 code will run in Python 2 but subtle differences can cause unexpected behaviour, especially with division of integers!
-{{% /alert %}}
+{{% /callout %}}
 
 

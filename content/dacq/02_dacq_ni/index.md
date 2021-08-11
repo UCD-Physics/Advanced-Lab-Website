@@ -9,8 +9,7 @@ weight: 20
 
 {{< figure src="NI_USB6008.png" title="Figure: NI USB 6008" lightbox="true" width="300" >}}
 
-{{% toc %}}
-
+{{< toc hide_on="xl" >}}
 
 ## Introduction
 
@@ -89,9 +88,9 @@ To communicate with the NI USB-6008 module we use a Python library
 called [PyDAQmx_Helper](https://github.com/JohnQuinn1/PyDAQmx_Helper),
 which was developed in the UCD School of Physics.
 
-{{% alert note %}}
+{{% callout note %}}
 Getting help!
-{{% /alert %}}
+{{% /callout %}}
 
 
 
@@ -100,19 +99,19 @@ Getting help!
 This library needs other libraries installed (NIDAQmx from National Instruments
 and [PyDAQMX](https://pythonhosted.org/PyDAQmx/))
 
-{{% alert note %}}
+{{% callout note %}}
 All communication with the NI USB-6008 will utilise the the
 PyDAQmx_Helper library and you will never need to interact directly
 with the NIDAQmx or PyDAQmx libraries!
-{{% /alert %}}
+{{% /callout %}}
 
 
 NIDAQmx, PyDAQmx and PyDAQmx_Helper are installed on all the APL computers that interface with experiments. If you have a problem
 please contact a member of staff or a demonstrator.
 
-{{% alert warning %}}
+{{% callout warning %}}
 Do not install the NIDAQmx/PyDAQmx software on your own computer - use the provided computers for interfacing!
-{{% /alert %}}
+{{% /callout %}}
 
 
 
@@ -161,10 +160,10 @@ ADC.addChannels(newChannels,
  * ```ADC_mode``` is either ```"DAQmx_Val_Diff"``` for differential mode (default) or ```"DAQmx_Val_RSE"``` for single-ended mode
  * ```minRange``` and ```maxRange``` should be specified to most closely match the range of the signal you are measuring.
 
-{{% alert warning %}}
+{{% callout warning %}}
 If you are measuring a small voltage can lose resolution by not specifying the range since the defaults are ±10 V - make
 sure to specify the correct range!
-{{% /alert %}}
+{{% /callout %}}
 
 Note: there is also an ADC method
 ```python
@@ -248,12 +247,12 @@ from Python as follows:
    myDAC.writeVoltage(2.62)
    ```
 
-{{% alert note %}}
+{{% callout note %}}
 The DAC class works differently to the ADC class: with the ADC class you make
 one instance of the class and add the channels, with the DAC class you specify
 the channel when an instance is created. If you want to use both DAC channels you
 need to make two instances of the class!
-{{% /alert %}}
+{{% /callout %}}
 
 <br/>
 

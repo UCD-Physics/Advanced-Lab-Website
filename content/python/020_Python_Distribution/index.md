@@ -1,7 +1,8 @@
 ---
-title: Python Version and Distribution
-linktitle: Download Python
+title: Get Python
+#linktitle: Download Python
 date: 2020-09-04
+weight: 10
 type: book
 icon: download
 icon_pack: fas
@@ -9,13 +10,10 @@ icon_pack: fas
 
 ## Python 3
 
-Python 3 is the [officially-supported](https://www.python.org) version and is the one that is used in the Advanced Laboratories.
-There are different releases of Python 3 (e.g. 3.8) and it is recommened to use the most recent release, but in particular a release of 3.6 or later.
-
-
-
-
-
+Python 3 is the [officially-supported](https://www.python.org) version
+and is the one that is used in the Advanced Laboratories.  There are
+different releases of Python 3 (e.g. 3.8) and it is recommened to use
+the most recent release, but in particular a release of 3.6 or later.
 
 <br/>
 

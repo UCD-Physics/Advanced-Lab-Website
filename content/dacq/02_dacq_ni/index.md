@@ -7,6 +7,11 @@ type: book
 weight: 20
 --- 
 
+Learn how to control the National Instruments multi-function USB-6008 module from Python.
+
+<!--more-->
+
+
 {{< figure src="NI_USB6008.png" title="Figure: NI USB 6008" lightbox="true" width="300" >}}
 
 {{< toc hide_on="xl" >}}
@@ -88,16 +93,10 @@ To communicate with the NI USB-6008 module we use a Python library
 called [PyDAQmx_Helper](https://github.com/JohnQuinn1/PyDAQmx_Helper),
 which was developed in the UCD School of Physics.
 
-{{% callout note %}}
-Getting help!
-{{% /callout %}}
 
 
-
-
-
-This library needs other libraries installed (NIDAQmx from National Instruments
-and [PyDAQMX](https://pythonhosted.org/PyDAQmx/))
+This library needs other libraries installed ([NIDAQmx](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000P8baSAC&l=en-IE) from National Instruments
+and [PyDAQmx](https://pythonhosted.org/PyDAQmx/) which calls the NIDAQmx C-based interface.
 
 {{% callout note %}}
 All communication with the NI USB-6008 will utilise the the
@@ -110,7 +109,7 @@ NIDAQmx, PyDAQmx and PyDAQmx_Helper are installed on all the APL computers that 
 please contact a member of staff or a demonstrator.
 
 {{% callout warning %}}
-Do not install the NIDAQmx/PyDAQmx software on your own computer - use the provided computers for interfacing!
+Do not install the NIDAQmx/PyDAQmx software on your own computer - use the computers provided for interfacing!
 {{% /callout %}}
 
 

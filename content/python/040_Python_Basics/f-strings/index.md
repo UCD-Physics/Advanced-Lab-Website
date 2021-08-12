@@ -7,7 +7,12 @@ toc: true
 ---
 # 
 
- {{< toc hide_on="xl" >}}
+The latest and greatest way to format strings in Python
+
+
+<!--more-->
+
+{{< toc hide_on="xl" >}}
 
 
 ## Introduction

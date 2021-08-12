@@ -29,11 +29,11 @@ tags:
 ## Introdution
 In the APL many experiments have computer-based data acquisition systems and
 some also require the experiment to be controlled by a computer. The main work
-horse is the National Instruments multi-function USB 6008 module, but a few
+horse is the National Instruments multi-function USB-6008 module, but a few
 other systems are also in use. This page is to provide a basic introduction to
 data acquisition techniques and to provide information on how to communicate with
 the data acquisition hardware through Python.
 
-## Content:
+## Topics
 
 {{< list_children >}} 

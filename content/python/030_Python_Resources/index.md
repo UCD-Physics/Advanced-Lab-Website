@@ -1,7 +1,8 @@
 ---
-title: Python Fundamentals
-date: 2019-05-05
+title: Python Resources
+date: 2021-08-12
 type: book
+weight: 30
 toc: true
 icon: book
 icon_pack: fas
@@ -38,7 +39,4 @@ Here are links to a [Numpy cheat sheet](https://www.dataquest.io/blog/numpy-chea
 
 
 
-## Topics:
-
-{{< list_children >}}
 

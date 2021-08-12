@@ -9,6 +9,11 @@ draft: false
 weight: 10
 ---
 
+Get up-to-speed on general data acquisition concepts.
+
+<!--more-->
+
+
 {{< toc hide_on="xl" >}}
 
 ## Analogue and Digital
@@ -133,12 +138,14 @@ completely record all of the information in a signal it must be sampled at at le
 present, otherwise aliasing (the artifical transfer of power to lower frequencies occurs). For a perfect
 sine wave this may also be states as a minimum of two points per cycle.
 
-{{% callout note %}}
-It is critical to sample at a rate greater than the Nyquist critical frequency (twice the highest frequency present) to avoid aliasing.
-{{% /callout %}}
+{{% callout note %}} It is critical to sample at a rate greater than
+the Nyquist critical frequency (twice the highest frequency present)
+to avoid aliasing.  {{% /callout %}}
 
-A remarkable fact about the Nyquist sampling theorem is than once you have met the sampling
-criterion, all of the information about the original signal is captured in the samples and the
-the original signal can be completely reconstructed from the them. This has
-many applications in science, engineering, telecommunications etc. and, for example,
-[why CD players use 44,100 Hz sampling](https://en.wikipedia.org/wiki/44,100_Hz)
+A remarkable fact about the Nyquist sampling theorem is than once you
+have met the sampling criterion, all of the information about the
+original signal is captured in the samples and the the original signal
+can be completely reconstructed from the them. This has many
+applications in science, engineering, telecommunications etc. and, for
+example, [why CD players use 44,100 Hz
+sampling](https://en.wikipedia.org/wiki/44,100_Hz)

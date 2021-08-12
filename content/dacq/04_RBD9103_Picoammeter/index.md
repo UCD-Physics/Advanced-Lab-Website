@@ -7,6 +7,10 @@ type: book
 weight: 50
 --- 
 
+Learn how to communicate with the RBD 9103 USB Picoammter using serial communications.
+
+<!--more-->
+
 
 {{< figure src="RBD9103.png" title="Figure: RBD 9103 USB Picoammater" lightbox="true" width="600" >}}
 

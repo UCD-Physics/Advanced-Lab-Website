@@ -3,7 +3,7 @@
 title: Python for Physics Advanced Laboratories
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: Python for Physics Labs
+#linktitle: Python for Physics Labs
 
 # Page summary for search engines.
 summary: Python for UCD Physics Advanced Laboratories
@@ -17,7 +17,7 @@ type: book
 # Position of this page in the menu. Remove this option to sort alphabetically.
 # weight: 1
 
-# table fo contents on right-hand side
+# table of contents on right-hand side
 toc: true
 
 tags:

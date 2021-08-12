@@ -7,6 +7,10 @@ type: book
 weight: 40
 --- 
 
+Learn how to use the IEEE-488 interface to communicate with compatible devices.
+
+<!--more-->
+
 ## Introduction
 
 IEEE-488 is a venerable interface standard for communication between

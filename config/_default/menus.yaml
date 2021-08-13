@@ -1,0 +1,27 @@
+main:
+ - name: "Information"
+   url:  'info/'
+   weight: 10
+
+ - name: "Documentation"
+   url: "docs/"
+   weight: 20
+   identifier: docs
+
+ - name: "Python"
+   url: "docs/python"
+   weight:  10
+   parent: docs
+
+ - name: "Data Acquisition"
+   url: "docs/dacq"
+   weight: 20
+   parent: docs
+
+ - name: "Data Analysis"
+   url: "docs/data_analysis"
+   weight: 30
+   parent: docs
+
+
+

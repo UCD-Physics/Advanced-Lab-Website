@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: Minimal
-day_night: true
-font: ''
-font_size: M
+theme: minimal
+day_night: false
+font: 
+font_size: m
 
 # SEO
 
@@ -49,7 +49,7 @@ address_format: en-us
 # Site features
 
 highlight: true
-highlight_languages: []
+highlight_languages: ["python", "c", "c++"]
 math: true
 diagram: true
 privacy_pack: false
@@ -68,9 +68,9 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
-docs_section_pager: true
+docs_section_pager: false
 sharing: true
 copyright_license:
   enable: true

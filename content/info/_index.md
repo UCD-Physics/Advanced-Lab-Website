@@ -1,8 +1,11 @@
 ---
-title: Information
-type: book  # Do not modify.
+title: ℹ️  Information
+type: page
+
+header:
+  caption: ""
+  image: ""
 ---
 
 Here you will find links to various additional documents and information for the APL.
 
-{{< list_children >}}

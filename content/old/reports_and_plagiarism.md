@@ -56,4 +56,3 @@ hero_media = "report.svg"
 #label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-The COVID-19 protocol for the Advanced Physics Labs.

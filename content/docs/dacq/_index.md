@@ -1,30 +1,33 @@
 ---
 # Page title
-title: Data Acquisition in the Advanced Physics Laboratories
+title: Data Acquisition
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: DACQ Main Page
 
 # Page summary for search engines.
-summary: Data Acquisition (DACQ) in Python in the  UCD Physics Advanced Laboratories
+summary: Data Acquisition in Python in the UCD Physics Advanced Laboratories
 
 # Date page published
-date: 2020-09-05
+# date: 2020-09-05
 
 # Academic page type (do not modify).
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-# weight: 1
+weight: 200
 
 # table fo contents on right-hand side
 toc: false
 
 tags:
 - DACQ
+- featured
 
 ---
 
+Introduction and Reference Documentaion for Computerised Data Acquisition in Python
+<!--more-->
 
 ## Introdution
 In the APL many experiments have computer-based data acquisition systems and

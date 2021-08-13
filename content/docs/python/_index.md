@@ -1,6 +1,6 @@
 ---
 # Page title
-title: Python for Physics Advanced Laboratories
+title: Python
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 #linktitle: Python for Physics Labs
@@ -9,20 +9,20 @@ title: Python for Physics Advanced Laboratories
 summary: Python for UCD Physics Advanced Laboratories
 
 # Date page published
-date: 2020-09-04
+# date: 2020-09-04
 
 # Academic page type (do not modify).
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-# weight: 1
+weight: 100
 
 # table of contents on right-hand side
 toc: true
 
 tags:
 - Python
-
+- featured 
 ---
 
 

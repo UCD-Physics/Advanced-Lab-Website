@@ -1,16 +1,25 @@
 ---
 # Title, summary, and page position.
 linktitle: Report Writing
-#summary: Report Writing & Plagiarism
-weight: 10
+# summary: Report Writing & Plagiarism
+weight: 30
 icon: file-contract
 icon_pack: fas
 toc: false
 
+
+
 # Page metadata.
 title: Report Writing & Plagiarism
 type: book  # Do not modify.
+tags:
+- report writing
+- featured
 ---
+
+A guide to writing laboratory reports.
+
+<!--more-->
 
 ## Report Writing
 

@@ -6,20 +6,23 @@ title: Data Analysis
 linktitle: Data Analysis
 
 # Page summary for search engines.
-summary: Data Analysis in the  UCD Physics Advanced Laboratories
+summary: Data Analysis in the UCD Physics Advanced Laboratories
 
 # Date page published
-date: 2020-09-06
+# date: 2020-09-06
 
 # Academic page type (do not modify).
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-# weight: 1
+weight: 300
 
 # table fo contents on right-hand side
 toc: false
 
+tags:
+- Data Analysis
+- featured
 ---
 
 ## Introdution

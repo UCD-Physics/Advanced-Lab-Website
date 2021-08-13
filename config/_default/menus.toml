@@ -10,19 +10,19 @@
   weight = 10
 
 [[main]]
-  name = "Python"
-  url = "python/"
+  name = "Documentation"
+  url = "docs/"
   weight = 20
 
-[[main]]
-  name = "Data Acquisition"
-  url = "dacq/"
-  weight = 30
+#[[main]]
+#  name = "Data Acquisition"
+#  url = "dacq/"
+#  weight = 30
 
 
-[[main]]
-  name = "Data Analysis"
-  url = "data_analysis/"
-  weight = 40
+#[[main]]
+#  name = "Data Analysis"
+#  url = "data_analysis/"
+#  weight = 40
 
 

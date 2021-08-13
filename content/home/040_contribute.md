@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "UCD Physics Advanced Laboratories"
+title = "Contribute"
 
-# Hero image (optional). Enter filename of an image in the `assets/media/` folder.
-hero_media = "computer.svg"
+# Hero image (optional). Enter filename of an image in the `static/media/` folder.
+hero_media = "github.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,8 +20,8 @@ hero_media = "computer.svg"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#2EB62C"
+  gradient_end = "#ABE098"
   
   # Background image.
   # image = "computer.svg"  # Name of image in `static/media/`.
@@ -37,10 +37,10 @@ hero_media = "computer.svg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "info/"
-  label = "Information"
-  icon_pack = "fas"
-  icon = "book-reader"
+  url = "https://github.com/UCD-Physics/Advanced-Lab-Website/"
+  label = "Contribute"
+  icon_pack = "fab"
+  icon = "github"
 #  
 #[cta_alt]
 #  url = "docs/"
@@ -48,8 +48,9 @@ hero_media = "computer.svg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
+ 
 
 #label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-Support material for Python, Computer Interfacing and Data Analysis in the Advanced Physics Laboratories (APL)
+Source material on github - contributions and corrections welcome!

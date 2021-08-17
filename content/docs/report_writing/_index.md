@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Report Writing
 # summary: Report Writing & Plagiarism
-weight: 30
+weight: 400
 icon: file-contract
 icon_pack: fas
 toc: false
@@ -25,7 +25,7 @@ A guide to writing laboratory reports.
 
 Guidelines for the preparation of reports in the Stage 3 and Stage 4
 Advanced Laboratories can be found here:
-[ReportGuidelines.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2020/ReportGuidelines.pdf)
+[ReportGuidelines.pdf](https://veritas.ucd.ie/~quinn/labs_master/docs/2021/ReportGuidelines.pdf)
 
 ## Plagiarism
 

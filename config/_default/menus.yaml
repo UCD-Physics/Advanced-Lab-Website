@@ -23,5 +23,10 @@ main:
    weight: 30
    parent: docs
 
+ - name: "Report Writing"
+   url: "docs/report_writing"
+   weight: 40
+   parent: docs
+
 
 

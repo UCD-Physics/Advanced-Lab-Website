@@ -89,8 +89,8 @@ String examples:
 >>> s.find('W')
 6
 
->>> ":".join(["one", "dog", "orange"]
-'one:dog:orange'
+>>> "-".join(["one", "dog", "orange"]
+'one-dog-orange'
 
 >>> "words with   spaces".split()
 ['words', 'with', 'spaces']

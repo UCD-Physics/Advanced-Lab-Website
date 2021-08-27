@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "UCD Phyics Advanced Laboratories"  # Website name
-baseurl: 'https://veritas.ucd.ie/~quinn/apl/' # Website URL
+baseurl: "https://veritas.ucd.ie/~apl/apl/" # Website URL
 copyright: '&copy; UCD School of Physics, {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -22,9 +22,8 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
-
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 ############################
 ## ADVANCED
 ############################

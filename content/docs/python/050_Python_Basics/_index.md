@@ -2,7 +2,7 @@
 title: Python Basics
 date: 2021-08-12
 type: book
-weight: 40
+weight: 50
 
 toc: true
 icon: book

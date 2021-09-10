@@ -20,7 +20,9 @@ tags:
 
 Please note: links to slides etc are currently placeholders and will be updated as the trimester progresses.
 
-## Introductory Lecture
+{{< toc hide_on="xl" >}}
+
+## Introductory Talk
 
 The Stage 3 Advanced Laboratory Introductory Talk will be given by
 Assoc. Prof. Emma Sokell at 2pm on Tuesday, September 14th in
@@ -28,7 +30,8 @@ room Science South S3.56 (TBC).
 
 ## Advanced Laboratory Dates and Times
 
-Laboratory hours are 2pm-6pm on Tuesdays, Wednesdays and Thursdays.
+Lab hours are 2pm-6pm on Tuesdays, Wednesdays and Thursdays.
+You should be working on lab activities at all timetabled hours unless you have a class.
 
 For trimester 1 the laboratories begin on Tuesday, September 14 and
 run until Thursday, December 2.
@@ -40,7 +43,8 @@ run until Thursday, December 2.
 The first three weeks of the laboratory will entail a series of
 lectures/tutorials, "hands-on" sessions (on Zoom) and exercises which
 will be graded. The introductory exercises will count as one
-laboratory experiment (2.5 credits) for assessment reasons.  Experimental work in
+laboratory experiment (2.5 credits) for assessment reasons.
+Experimental work in
 the laboratory will commence in week four.  Zoom links will be
 circulated by email.
 
@@ -102,7 +106,7 @@ for the hands-on zoom sessions. [Download Anaconda]({{< ref "/docs/python/020_Ge
 
 ### Exercises and Weighting
 
-The five introductory exercise sets, **which must be submitted as a single PDF through Brightspace by October ??**, can be found below. The breakdown of marks will be:
+The five introductory exercise sets, **which must be submitted as a single PDF through Brightspace by 5pm on October 11th**, can be found below. The breakdown of marks will be:
 
 |Exercise | Weighting| Documents |
 |---------|----------|-----------|

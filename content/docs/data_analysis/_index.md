@@ -20,6 +20,10 @@ weight: 300
 # table fo contents on right-hand side
 toc: false
 
+icon_pack: fas
+icon: chart-bar
+
+
 tags:
 - Data Analysis
 - featured

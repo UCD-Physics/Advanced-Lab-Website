@@ -20,6 +20,9 @@ weight: 200
 # table fo contents on right-hand side
 toc: false
 
+icon: digital-tachograph
+icon_pack: fas
+
 tags:
 - DACQ
 - featured

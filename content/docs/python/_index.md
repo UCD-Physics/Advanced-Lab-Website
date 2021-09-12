@@ -20,6 +20,9 @@ weight: 100
 # table of contents on right-hand side
 toc: true
 
+icon_pack: fab
+icon: python
+
 tags:
 - Python
 - featured 

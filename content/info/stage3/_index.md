@@ -107,7 +107,7 @@ for the hands-on zoom sessions. [Download Anaconda]({{< ref "/docs/python/020_Ge
 
 ### Exercises and Weighting
 
-The five introductory exercise sets, **which must be submitted as five individual PDFs through Brightspace as your first assignment**, can be found below. The breakdown of marks will be:
+The five introductory exercise sets, **which must be submitted as five individual PDFs (together in a single submission) through Brightspace as your first assignment**, can be found below. The breakdown of marks will be:
 
 |Exercise | Weighting| Documents |
 |---------|----------|-----------|

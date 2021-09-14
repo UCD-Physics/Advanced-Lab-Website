@@ -26,7 +26,7 @@ Please note: some of the links to slides etc. are not all live yet and will be u
 
 The Stage 3 Advanced Laboratory Introductory Talk will be given by
 Assoc. Prof. Emma Sokell at 2pm on Tuesday, September 14th in
-room Science South S3.56. [[Slides]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Lab_Intro2021.pdf)
+room Science South S3.56. [[Slides]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Lab_Intro2122.pdf)
 
 ## Advanced Laboratory Dates and Times
 
@@ -58,7 +58,7 @@ for the hands-on zoom sessions. [Download Anaconda]({{< ref "/docs/python/020_Ge
 
 #### Week 1
 ##### Tuesday September 14
- * 2pm: Stage 3 APL Introduction (Assoc. Prof. Emma Sokell), Science South S3.56 [[Slides]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Lab_Intro2021.pdf)
+ * 2pm: Stage 3 APL Introduction (Assoc. Prof. Emma Sokell), Science South S3.56 [[Slides]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Lab_Intro2122.pdf)
  * 4pm: Python in the APL (Assoc. Prof. John Quinn), Science South S3.56  [[Slides]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Intro_2021.pdf)
  <!--[[mp4]](https://media.heanet.ie/page/70b8f04df9784da18d1fe348800b7836)-->
 

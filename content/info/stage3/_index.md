@@ -117,7 +117,7 @@ The five introductory exercise sets, **which must be submitted as five individua
 | Data Analysis II | 20% |  [Jupyter Notebook template II](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/AdvLabDataWeek2-Sept2021.ipynb), [thermocouple.dat](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/thermocouple.dat) |
 | Statistics and Error Analysis | 20%| [Error_Analysis_Exercises_2021.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Error_Analysis_Exercises_2021.pdf) |
 
-The introductory exercises are in place of one experiment for 2021-2022 and worth 2.5 credits.
+The introductory exercises are in place of one experiment for 2021-2022 and worth 2.5 credits, which equates to approximately 50 hours of work, so each exercise set should take approximately 10 hours. 
 
 <br/>
 

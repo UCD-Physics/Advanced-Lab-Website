@@ -58,7 +58,8 @@ comments](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-
 
 There is a software package called
 [Black](https://black.readthedocs.io/en/stable/) which you can run on
-your code to automatically re-format to mostly confrom to PEP 8. It
+your code to automatically re-format to mostly confrom to PEP 8 (it does not
+do calculations very well, unfortunately). It
 can also be installed into Jupyter Notebooks so that cells can be
 reformatted - [see this
 page](https://github.com/drillan/jupyter-black).

@@ -28,10 +28,7 @@ The Stage 3 Advanced Laboratory Introductory Talk will be given by
 Assoc. Prof. Emma Sokell at 2pm on Tuesday, September 14th in
 room Science South S3.56. [[Slides]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Lab_Intro2122.pdf)
 
-## Advanced Laboratory Dates and Times
-
-Lab hours are 2pm-6pm on Tuesdays, Wednesdays and Thursdays.
-You should be working on lab activities at all timetabled hours unless you have a class.
+## Advanced Laboratory Dates
 
 For trimester 1 the laboratories begin on Tuesday, September 14 and
 run until Thursday, December 2.
@@ -63,8 +60,10 @@ for the hands-on zoom sessions. [Download Anaconda]({{< ref "/docs/python/020_Ge
  <!--[[mp4]](https://media.heanet.ie/page/70b8f04df9784da18d1fe348800b7836)-->
 
 ##### Wednesday September 15
- * 2pm-3pm: Python Basics Refresher (Assoc. Prof. John Quinn), Zoom [[Slides]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Basics_Tutorial_2021.pdf)
- * 3pm-6pm: Python Basics Exercises hands-on (with staff support on Zoom) [[Problems]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Basics_Exercises_2021.pdf)
+ * 2pm-3pm: Python Basics Refresher (Assoc. Prof. John Quinn), Zoom [[PDF]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Basic_Python_Refresher_2021.pdf) [[Jupyter Notebook]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Basic_Python_Refresher_2021.ipynb) (Right-click or control click and select *"download linked file as"*. Some browsers add .txt as an extension - if your's does then please remove/rename so that the extension of the notebook is .ipynb)
+
+ * 3pm-6pm: Python Basics Exercises hands-on (with staff support on Zoom) [[Problems]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Basics_Exercises_2021.pdf) [[simdacq.py]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/simdacq.py) (Right-click or control click and select *"download linked file as"*. Some browsers add .txt as an extension - if your's does then please remove/rename so that the extension of the file is .py)
+
 
 ##### Thursday September 16
  * 2pm-4pm: Data Analysis I, Group 1[^1] (with staff support on Zoom)

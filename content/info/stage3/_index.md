@@ -60,8 +60,7 @@ for the hands-on zoom sessions. [Download Anaconda]({{< ref "/docs/python/020_Ge
  <!--[[mp4]](https://media.heanet.ie/page/70b8f04df9784da18d1fe348800b7836)-->
 
 ##### Wednesday September 15
- * 2pm-3pm: Python Basics Refresher (Assoc. Prof. John Quinn), Zoom [[PDF]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Basic_Python_Refresher_2021.pdf) [[Jupyter Notebook]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Basic_Python_Refresher_2021.ipynb) (Right-click or control click and select *"download linked file as"*. Some browsers add .txt as an extension - if your's does then please remove/rename so that the extension of the notebook is .ipynb)
-
+ * 2pm-3pm: Python Basics Refresher (Assoc. Prof. John Quinn), Zoom [[PDF]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Basic_Python_Refresher_2021.pdf) [[Jupyter Notebook]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Basic_Python_Refresher_2021.ipynb) [[mp4]](https://media.heanet.ie/page/8ff59ee180d14c23a24790ff1bcf01a2)
  * 3pm-6pm: Python Basics Exercises hands-on (with staff support on Zoom) [[Problems]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Basics_Exercises_2021.pdf) [[simdacq.py]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/simdacq.py) (Right-click or control click and select *"download linked file as"*. Some browsers add .txt as an extension - if your's does then please remove/rename so that the extension of the file is .py)
 
 
@@ -110,10 +109,10 @@ The five introductory exercise sets, **which must be submitted as five individua
 
 |Exercise | Weighting| Documents |
 |---------|----------|-----------|
-| Python Basics | 20%      | [Stage3_Python_Basics_Exercises_2021.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Basics_Exercises_2021.pdf) |
-| Python Numpy | 20%      | [Stage3_Python_Numpy_Exercises_2021.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Numpy_Exercises_2021.pdf) |
+| Python Basics | 20%      | [Stage3_Python_Basics_Exercises_2021.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Basics_Exercises_2021.pdf), [simdacq.py](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/simdacq.py)|
 | Data Analysis I | 20% | [Jupyter Notebook template I](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/AdvLabDataWeek1-Sept2021.ipynb), [counts.dat](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/counts.dat) |
 | Data Analysis II | 20% |  [Jupyter Notebook template II](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/AdvLabDataWeek2-Sept2021.ipynb), [thermocouple.dat](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/thermocouple.dat) |
+| Python Numpy | 20%      | [Stage3_Python_Numpy_Exercises_2021.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Numpy_Exercises_2021.pdf) |
 | Statistics and Error Analysis | 20%| [Error_Analysis_Exercises_2021.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Error_Analysis_Exercises_2021.pdf) |
 
 The introductory exercises are in place of one experiment for 2021-2022 and worth 2.5 credits, which equates to approximately 50 hours of work, so each exercise set should take approximately 10 hours. 

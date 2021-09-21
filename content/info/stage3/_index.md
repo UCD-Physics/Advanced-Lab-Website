@@ -78,8 +78,8 @@ for the hands-on zoom sessions. [Download Anaconda]({{< ref "/docs/python/020_Ge
 
 
 ##### Wednesday September 22
- * 2pm-3pm: Python Numpy Tutorial (Dr. Nuala Caffrey), Zoom [[Slides]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Numpy_Tutorial_2021.pdf)
- * 3pm-6pm: Python Numpy Exercises hands-on (with staff support on Zoom) [[Problems]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Numpy_Exercises_2021.pdf)
+ * 2pm-3pm: Python Numpy & Scipy Tutorial (Dr. Nuala Caffrey), Zoom [[PDF file]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/Combined_NumPy_SciPy_Lecture.pdf) [[Jupyter Notebook]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/Combined_NumPy_SciPy_Lecture.ipynb) 
+ * 3pm-6pm: Python Numpy and Scipy  Exercises hands-on (with staff support on Zoom) [[Problems.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/NumPy_SciPy_Exercises.pdf) [[csv file]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/WindGeneration_24.Jul.2021.00.00_22.Aug.2021.23.59.csv)
 
 
 
@@ -112,7 +112,7 @@ The five introductory exercise sets, **which must be submitted as five individua
 | Python Basics | 20%      | [Stage3_Python_Basics_Exercises_2021.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Basics_Exercises_2021.pdf), [simdacq.py](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/simdacq.py)|
 | Data Analysis I | 20% | [Jupyter Notebook template I](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/AdvLabDataWeek1-Sept2021.ipynb), [counts.dat](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/counts.dat) |
 | Data Analysis II | 20% |  [Jupyter Notebook template II](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/AdvLabDataWeek2-Sept2021.ipynb), [thermocouple.dat](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/thermocouple.dat) |
-| Python Numpy | 20%      | [Stage3_Python_Numpy_Exercises_2021.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Stage3_Python_Numpy_Exercises_2021.pdf) |
+| Python Numpy & Scipy | 20%      | [Problems.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/NumPy_SciPy_Exercises.pdf), [csv file](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/WindGeneration_24.Jul.2021.00.00_22.Aug.2021.23.59.csv)
 | Statistics and Error Analysis | 20%| [Error_Analysis_Exercises_2021.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Error_Analysis_Exercises_2021.pdf) |
 
 The introductory exercises are in place of one experiment for 2021-2022 and worth 2.5 credits, which equates to approximately 50 hours of work, so each exercise set should take approximately 10 hours. 

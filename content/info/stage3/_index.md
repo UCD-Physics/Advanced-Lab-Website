@@ -87,6 +87,7 @@ for the hands-on zoom sessions. [Download Anaconda]({{< ref "/docs/python/020_Ge
  * 2pm-4pm: Data Analysis II, Group 2[^2] (with staff support on Zoom)
  * 4pm-6pm: Data Analysis II, Group 1[^1] (with staff support on Zoom)
   * Downloads: [Jupyter Notebook template](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/AdvLabDataWeek2-Sept2021.ipynb) and [thermocouple.dat](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/thermocouple.dat)
+  * Note: the sessions have been traditionally split into two due to timetable clashes and a limited number of computers in the lab. However, as we are on zoom with no computer limit and we undertsand there is no timetable clash this year, **everyone is welcome (and encouraged) to join from 2pm - 6pm!** 
 
 [^1]: Physics & Theoretical Physics
 [^2]: Physics with Astronomy and Space Science

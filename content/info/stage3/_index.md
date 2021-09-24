@@ -78,8 +78,14 @@ for the hands-on zoom sessions. [Download Anaconda]({{< ref "/docs/python/020_Ge
 
 
 ##### Wednesday September 22
- * 2pm-3pm: Python Numpy & Scipy Tutorial (Dr. Nuala Caffrey), Zoom [[PDF file]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/Combined_NumPy_SciPy_Lecture.pdf) [[Jupyter Notebook]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/Combined_NumPy_SciPy_Lecture.ipynb) 
- * 3pm-6pm: Python Numpy and Scipy  Exercises hands-on (with staff support on Zoom) [[Problems.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/NumPy_SciPy_Exercises.pdf) [[csv file]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/WindGeneration_24.Jul.2021.00.00_22.Aug.2021.23.59.csv)
+ * 2pm-3pm: Python Numpy & Scipy Tutorial (Dr. Nuala Caffrey),Zoom
+ [[PDF file]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/Combined_NumPy_SciPy_Lecture.pdf)
+ [[Jupyter Notebook]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/Combined_NumPy_SciPy_Lecture.ipynb)
+ * 3pm-6pm: Python Numpy and Scipy Exercises hands-on (with staff support on Zoom)
+ [[Problems.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/NumPy_SciPy_Exercises.pdf)
+ [[csv file]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/WindGeneration_24.Jul.2021.00.00_22.Aug.2021.23.59.csv)
+  [[extra_help.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Scipy/NumPy_SciPy_Exercise_1_Extra_Help.pdf) 
+
 
 
 
@@ -96,11 +102,11 @@ for the hands-on zoom sessions. [Download Anaconda]({{< ref "/docs/python/020_Ge
 #### Week 3
 
 ##### Tuesday September 28
- * 2pm-3pm: Report Writing (Assoc. Prof. Emma Sokell), Science Hub H2.38 (TBC),  Downloads: [Report_Writing.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/Report_and_Plagiarism/Manual.pdf), [Report.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/Report_and_Plagiarism/Report.pdf)
- * 4pm-5pm: Data Acquisition in Python (Assoc. Prof. John Quinn), Science South S3.56 (TBC)[[online documentation]]({{< ref "/docs/dacq/" >}})
+ * 2pm-3pm: Report Writing (Assoc. Prof. Emma Sokell), Science Hub H2.38,  Downloads: [Report_Writing.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/Report_and_Plagiarism/Manual.pdf), [Report.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/Report_and_Plagiarism/Report.pdf)
+ * 4pm-5pm: Data Acquisition in Python (Assoc. Prof. John Quinn), Science South S3.56 [[online documentation]]({{< ref "/docs/dacq/" >}})
 
 ##### Wednesday September 29
- * 2pm-4pm: Statistics and Data Analysis Quickstart (Assoc. Prof. John Quinn), Science North N2.31 (TBC) [Slides.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Error_and_Data_Analysis_2021.pdf)
+ * 2pm-4pm: Statistics and Data Analysis Quickstart (Assoc. Prof. John Quinn), Science North N2.31 [Slides.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/S3Intro/Error_and_Data_Analysis_2021.pdf)
 
 
 

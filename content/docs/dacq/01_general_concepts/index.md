@@ -18,6 +18,9 @@ Get up-to-speed on general data acquisition concepts.
 
 ## Analogue and Digital
 
+{{< figure src="Analogue-vs-Digital.png" title="Figure: Analogue -vs- Digital" lightbox="true" width="600" >}}
+
+
 Computers are digital systems and and at he most basic level store
 information as sequences of bits (electronic states representing a 0 or 1,
 for more information on voltages and logic levels see
@@ -149,3 +152,6 @@ can be completely reconstructed from the them. This has many
 applications in science, engineering, telecommunications etc. and, for
 example, [why CD players use 44,100 Hz
 sampling](https://en.wikipedia.org/wiki/44,100_Hz)
+
+Aliasing is one of the reasons wheels can appear to rotate backward, see e.g.
+[link](https://www.youtube.com/watch?v=VNftf5qLpiA) and [link](https://www.youtube.com/watch?v=QOwzkND_ooU)

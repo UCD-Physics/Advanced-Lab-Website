@@ -144,7 +144,7 @@ first three steps are the same in either case:
 
 The ADC method:
 ```python
-addChannels()
+ADC.addChannels()
 ```
 takes four arguments, three of which are optional
 and default to the values shown:
@@ -166,7 +166,7 @@ sure to specify the correct range!
 
 Note: there is also an ADC method
 ```python
-getActiveChannels()
+ADC.getActiveChannels()
 ```
 which returns a list of the channels that have been added.
 
@@ -178,7 +178,7 @@ which returns a list of the channels that have been added.
 To reaout the voltage once when only a single channel is connected use the
 ADC method:
 ```python
-readVoltage()
+ADC.readVoltage()
 ```
 which returns the voltage as a floating-point number.
 
@@ -205,7 +205,7 @@ where the total number of samples per channel and the sample rate can be specifi
 (both default to 1 if not given). Recall that the USB-6008 has a maximum sample rate
 of 10 kS/s for all channels combined.
 
-```sampleVoltages()``` returns a dictionary where the keys are the channel ids and
+```ADC.sampleVoltages()``` returns a dictionary where the keys are the channel ids and
 the values are the samples (as tuples):
 
 {{< figure src="samplevoltages.png" title="Figure: dictionary returned by sampleVoltages" lightbox="true" width="600" >}}
@@ -217,13 +217,13 @@ Example: To to record 100 samples per channel at 200 Hz for channels 0 and 2, in
 ```python
 from pydaqmx_helper.adc import ADC
 
-myADC=ADC()
+myADC = ADC()
 myADC.addChannels([0,2], minRange=-5, maxRange=5)
 
-data=myADC.sampleVoltages(100,200)
+data = myADC.sampleVoltages(100,200)
 
-samples0=data[0]  # tuple of samples associated with channel with id 0
-samples2=data[2]  # tuple of samples associated with channel with id 2
+samples0 = data[0]  # tuple of samples associated with channel with id 0
+samples2 = data[2]  # tuple of samples associated with channel with id 2
 ```
 
 <br/>
@@ -279,15 +279,15 @@ Usage:
     ```
   * If the port is set as an input then you can read from it using `read()`:
     ```python
-    val=myDigital_IO.read() 
+    val = myDigital_IO.read() 
     ```
 
   * If the port is set as an output then you can write a value to it using `write(val)`,
     which returns a string representaiton of the binary numbers written out:
     ```python
-    ans=myDigital_IO.write(255)  # write out binary 11111111: returns `0b11111111`
+    ans = myDigital_IO.write(255)  # write out binary 11111111: returns `0b11111111`
     ```
-    Note it is he low bits of `val` get written to the port.
+    Note it is the low bits of `val` that get written to the port.
 
 <br/>
 
@@ -313,16 +313,16 @@ Usage:
 
  * Read out the number of counts at any time with:
    ```python
-   val=myCounter.getCount()
+   val = myCounter.getCount()
    ```
 
 * Read, stop and reset with:
    ```python
-   val=myCounter.stop()
+   val = myCounter.stop()
    ```
    Note: start() re-starts counting from 0.
 
-The Python [sleep](broken link) function is useful to use with the counter.
+The Python [time.sleep()](https://docs.python.org/3/library/time.html#time.sleep) function is useful to use with the counter.
 
 
 <br/>

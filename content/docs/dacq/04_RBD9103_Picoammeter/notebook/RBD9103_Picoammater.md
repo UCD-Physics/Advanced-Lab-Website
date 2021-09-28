@@ -1,6 +1,6 @@
 # Communicating with the RBD 9103 Picoammeter in Python
 
-#### Updated -  14/10/2016
+#### Updated -  28/09/2021
 
 ## Introduction
 
@@ -12,7 +12,7 @@ Communication with the device can be through the software provided, a serial ter
 
 Please read this in consultation with the user manual: 
 
-http://www.rbdinstruments.com/products/picoammeter/downloads/current/9103-picoammeter-user-guide.pdf
+https://www.rbdinstruments.com/products/files/downloads/9103//9103-picoammeter-user-guide.pdf
 
 Once the device driver has been installed the picoammeter can be accessed as a serial device on the PC by reading/writing text commands, or by using the *Actual* software that comes with it. The *Actuel* software includes a console that can be used to write and read commands. 
 
@@ -54,7 +54,7 @@ Note that the value for the filter does not have a default value when the device
 
 ### PySerial
 
-To communicate with a serial device in Python we wil use [PySerial](https://pythonhosted.org/pyserial/). If not installed install (on Anaconda Python) with 
+To communicate with a serial device in Python we will use [PySerial](https://pythonhosted.org/pyserial/). **PySerial is installed on all lab computers!** However, if not installed, on Anaconda Python install with with 
 
     conda install pyserial 
     
@@ -63,13 +63,16 @@ The code below shows how to import pyserial and set up a connection. It is essen
 
 ```python
 import serial
-ser=serial.Serial('com3',
-                 baudrate=57600,
-                 bytesize=serial.EIGHTBITS,
-                 parity=serial.PARITY_NONE,
-                 stopbits=serial.STOPBITS_ONE,
-                 xonxoff=False,
-                 timeout=1)  # seconds
+
+ser = serial.Serial(
+    "com3",
+    baudrate=57600,
+    bytesize=serial.EIGHTBITS,
+    parity=serial.PARITY_NONE,
+    stopbits=serial.STOPBITS_ONE,
+    xonxoff=False,
+    timeout=1, # seconds
+)  
 ```
 
 Some useful PySerial commands (class functions):
@@ -210,8 +213,11 @@ Also, note that the manual says that the stated accuracy is achieved after 1 hou
 ```python
 # Example: request a sample:
 
-ser.write(data('&S'))
-ans=ser.readline().decode('utf-8').rstrip() # convert bytes to string and remove trailing newline and CR
+ser.write(data("&S"))
+
+ans = ser.readline().decode("utf-8").rstrip()
+# convert bytes to string and remove trailing newline and CR
+
 print(ans)
 ```
 

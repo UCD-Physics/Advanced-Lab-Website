@@ -25,7 +25,7 @@ A guide to writing laboratory reports.
 
 Guidelines for the preparation of reports in the Stage 3 and Stage 4
 Advanced Laboratories can be found here:
-[ReportGuidelines.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/ReportGuidelines.pdf)
+[ReportGuidelines.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/Report_and_Plagiarism/ReportGuidelines.pdf)
 
 ## Plagiarism
 

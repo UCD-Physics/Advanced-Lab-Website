@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "UCD Phyics Advanced Laboratories"  # Website name
-baseurl: "https://veritas.ucd.ie/~apl/apl/" # Website URL
+baseurl: "https://physicslabs.ucd.ie/" # Website URL
 copyright: '&copy; UCD School of Physics, {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -87,4 +87,9 @@ privacy:
     disable: true
   youtube:
     disable: true
-    
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

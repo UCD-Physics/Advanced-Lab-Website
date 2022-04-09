@@ -25,7 +25,7 @@ A guide to writing laboratory reports.
 
 Guidelines for the preparation of reports in the Stage 3 and Stage 4
 Advanced Laboratories can be found here:
-[ReportGuidelines.pdf](https://veritas.ucd.ie/~apl/labs_master/docs/2021/Report_and_Plagiarism/ReportGuidelines.pdf)
+[ReportGuidelines.pdf](https://physicslabs.ucd.ie/~apl/labs_master/docs/2021/Report_and_Plagiarism/ReportGuidelines.pdf)
 
 ## Plagiarism
 
@@ -45,7 +45,7 @@ provided by the UCD Library
 
 At the start of Stage 3 all students in the Advanced Laboratories are required to read and sign the UCD
 School of Physics Advanced Laboratories [Plagiarism
-Document](https://veritas.ucd.ie/~apl/labs_master/docs/2020/UCD_Physics_Labs_Plagiarism_statement.pdf)
+Document](https://physics.ucd.ie/~apl/labs_master/docs/2020/UCD_Physics_Labs_Plagiarism_statement.pdf)
 
 #### Additional Information
 

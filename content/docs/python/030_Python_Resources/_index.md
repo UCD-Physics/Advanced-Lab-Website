@@ -16,9 +16,9 @@ The documentation here is under development and will be updated frequently.
 ## Previous APL Python Slides:
 
 In the meantime, have a look at previous slides [Introductory Python
-I](http://veritas.ucd.ie/~apl/labs_master/Python/2019/Python%20I.pdf)
+I](http://physicslabs.ucd.ie/~apl/labs_master/Python/2019/Python%20I.pdf)
 which covers basic Python language features and [Introductory Python
-II](http://veritas.ucd.ie/~apl/labs_master/Python/2019/Python%20II.pdf)
+II](http://physicslabs.ucd.ie/~apl/labs_master/Python/2019/Python%20II.pdf)
 which covers some more advanced Python language features (modules, functions)
 and a 
 

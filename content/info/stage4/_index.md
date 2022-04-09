@@ -22,7 +22,7 @@ The Stage 4 Advanced Laboratory Introductory Talk will be given by
 Assoc. Prof. Luis Leon-Vintro at 2pm on Tuesday, September 14th in
 room SCH-H1.51. The lecture will also be recorded and made available here.
 
-Slides from the Introductory Lecture by Dr. Vintro are available [here](http://veritas.ucd.ie/~apl/labs_master/docs/2021/S4Intro/Intro_session_Stage4_202122.pdf).
+Slides from the Introductory Lecture by Dr. Vintro are available [here](http://physicslabs.ucd.ie/~apl/labs_master/docs/2021/S4Intro/Intro_session_Stage4_202122.pdf).
 
 
 ## Laboratory Schedule:

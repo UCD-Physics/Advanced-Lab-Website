@@ -1,3 +1,18 @@
+---
+title: Formatting Your Code
+linktitle: How to use Markdown 
+date: 2022-07-06
+type: book
+toc: true
+---
+# 
+
+
+
+<!--more-->
+
+{{< toc hide_on="xl" >}}
+
 # Writing your code well
 
 ### When coding, it is extremelly important to make your code clear and concise.

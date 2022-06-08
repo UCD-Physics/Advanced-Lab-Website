@@ -35,7 +35,7 @@ tags:
 
 
 
-## Why Python?
+## Why do we use Python?
 [Python](https://www.python.org) is a computer programming language that is becoming increasingly popular
 in Physics. It is easy to learn and has a quite user-friendly syntax. Python has become one of the
 most popular languages for teaching computer-programming and is being adopted in UCD Science

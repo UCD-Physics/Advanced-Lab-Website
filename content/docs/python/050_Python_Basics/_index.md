@@ -9,7 +9,7 @@ icon: book
 icon_pack: fas
 ---
 
-This section will provide a 'how-to' on many basic concepts in Python. The aim of this is to provide a reference for anyone who needs reminding of how to do certain tasks in Python. This page will be updated with supplementary material for those who wish to advance their coding skills! The links below will take you to the UCD Physics 'How-To' repository. Here, you can browse through the material, but if you wish to run the code or edit it to help your understanding, you can click the 'open in colab' link which will bring you to a webpage where you can easily eun the code yourself!
+This section will provide a 'how-to' on many basic concepts in Python. The aim of this is to provide a reference for anyone who needs reminding of how to do certain tasks in Python. This page will be updated with supplementary material for those who wish to advance their coding skills! The links below will take you to the UCD Physics 'How-To' repository. Here, you can browse through the material, but if you wish to run the code or edit it to help your understanding, you can click the 'open in colab' link which will bring you to a webpage where you can easily run the code yourself!
 
 - [How to format your code well.](https://github.com/UCD-Physics/Python-HowTos/blob/main/How_to_use_markdown_cells.ipynb)
 - [How to use numpy.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Numpy.ipynb)
@@ -20,7 +20,7 @@ This section will provide a 'how-to' on many basic concepts in Python. The aim o
 - [How to write concise functions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Functions.ipynb)
 - [How to write loops.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Writing_Loops.ipynb)
 - [Helpful tips when interfacing](https://github.com/UCD-Physics/Python-HowTos/blob/main/Interfacing.ipynb)
-
+- [How to format a computational lab report](https://github.com/UCD-Physics/Python-HowTos/blob/main/Computational_Lab_Guideslines.pdf)
 
  {{< toc hide_on="xl" >}}
 

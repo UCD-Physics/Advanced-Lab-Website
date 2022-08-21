@@ -1,5 +1,5 @@
 ---
-title: Python Basics
+title: Python HowTos
 date: 2021-08-12
 type: book
 weight: 50
@@ -9,7 +9,22 @@ icon: book
 icon_pack: fas
 ---
 
-This section will provide a 'how-to' on many basic concepts in Python. The aim of this is to provide a reference for anyone who needs reminding of how to do certain tasks in Python. The links below will take you to the UCD Physics 'How-To' repository. Here, you can browse through the material, but if you wish to run the code or edit it to help your understanding, you can click the 'open in colab' link which will bring you to a webpage where you can easily run the code yourself!
+This section will provide a 'how-to' on many basic concepts in
+Python. The aim of this is to provide a reference for anyone who needs
+reminding of how to do certain tasks in Python.
+
+The links below will
+take you to the UCD Physics 'How-To' repository on GitHub.
+
+Here, you can browse
+through the material, but if you wish to run the code or edit it to
+help your understanding, you can **click the 'open in colab' link** which
+will bring you to a webpage where you can easily run the code
+yourself!
+
+{{% callout warning %}} The Jupyter notebooks should be rendered on
+Github. However, some old browsers do not show the rendered notebooks. If the notebooks do not render then please
+try another browser.  {{% /callout %}}
 
 - [How to format your Jupyter Notebook.](https://github.com/UCD-Physics/Python-HowTos/blob/main/How_to_use_markdown_cells.ipynb)
 - [How to format your code.](https://physicslabs.ucd.ie/docs/python/040_coding_guidelines/)

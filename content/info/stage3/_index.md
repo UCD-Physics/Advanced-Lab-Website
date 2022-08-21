@@ -41,12 +41,13 @@ There will be three additional introductory lectures as part of the Stage 3 Adva
 For trimester 1 the laboratories begin on Tuesday 13 September 2022 and
 run until Thursday, 1 December 2022.
 
-For trimester 2 tha laboratories begin on Tuesday, 23 January 2023 and
+For trimester 2 the laboratories begin on Tuesday, 23 January 2023 and
 run until Thursday 30 March 2023.
 
-{{% callout note %}}
-The laboratories run during the two-week field-work break (13 - 24 March 2023) and close four weeks before the end of the trimester to enable all assessment to be complete before written examinations start.
-{{% /callout %}}
+{{% callout note %}} The laboratories run during the two-week
+field-work break (13 - 24 March 2023) and close four weeks before the
+end of the trimester to enable all assessment to be complete before
+written examinations start.  {{% /callout %}}
 
 ## Advanced Laboratory Aims
 
@@ -60,18 +61,26 @@ emphasis on writing the report.
 
 
 ## Laboratory Reports
-Each experiment including write up should take approximately three weeks for those doing four labs per trimester and approxiately  4.5 weeks for those doing two labs per trimester.
-It is essential to plan and utilise your time well.
 
-As a rough guide, the time spent doing a main lab. experiment should be split into roughly three equal duration parts:
-*  becoming familiar with the experiment, writing statement of intent, setting up and writing data acquisition code if relevant,
-* carrying out and refining the experiment inlcuding  preliminrary data analysis
+Each experiment including write up should take approximately three
+weeks for those doing four labs per trimester and approxiately 4.5
+weeks for those doing two labs per trimester.  It is essential to plan
+and utilise your time well.
+
+As a rough guide, the time spent doing a main lab. experiment should
+be split into roughly three equal duration parts:
+
+* becoming familiar with the experiment, writing statement of intent,
+   setting up and writing data acquisition code if relevant,
+
+* carrying out and refining the experiment inlcuding preliminrary data
+  analysis
+
 * final analysis and report writing.
 
 
 
-{{% callout warning %}}
-You will not be given a new experiment until the report from the previous one has been submitted.
-{{% /callout %}}
+{{% callout warning %}} You will not be given a new experiment until
+the report from the previous one has been submitted.  {{% /callout %}}
 
 

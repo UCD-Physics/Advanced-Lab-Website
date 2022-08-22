@@ -19,21 +19,61 @@ tags:
 ## Introductory Lecture
 
 The Stage 4 Advanced Laboratory Introductory Talk will be given by
-Assoc. Prof. Luis Leon-Vintro at 2pm on Tuesday, September 14th in
-room SCH-H1.51. The lecture will also be recorded and made available here.
+Assoc. Prof. Luis Leon-Vintro at 2pm on Tuesday, 13 September 2022 in
+room Science East SCE E0.01. 
 
-Slides from the Introductory Lecture by Dr. Vintro are available [here](http://physicslabs.ucd.ie/~apl/labs_master/docs/2021/S4Intro/Intro_session_Stage4_202122.pdf).
+Slides from the Introductory Lecture by Dr. Vintro are available [here](http://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S4Intro/Stage4_Introduction_2223.pdf).
 
 
-## Laboratory Schedule:
+## Advanced Laboratory Hours and Dates 2022-2023
 
-Laboratory hours are 2pm-6pm on Tuesdays, Wednesdays and Thursdays. 
 
-It will be possible to access the laboratories from 11 am on the above
-days. 
+The laboratories are open with demonstrator and staff support from 2 pm
+to 6 pm on Tuesday, Wednesday and Thursday afternoons.  In addition,
+they may be accessed on Tuesday, Wednesday and Thursday mornings from 11 am but
+you must inform a staff member.
 
-For trimester 1 the laboratories begin on Tuesday, September 14 and
-run until Thursday, December 2.
+{{% callout note %}} All students are required to sign in and out of the lab
+using the Google form accessed via the QR code posted in the labs.
+{{% /callout %}}
+
+
+The dates for the laboratories are:
+
+* Trimester 1:  Tuesday 13 September to Thursday 1 December 2022
+* Trimester 2:  Tuesday 24 January to Thursday 2 March 2023
+
+
+## Report Submission Deadlines
+
+The hard deadlines for submission of laboratory reports are:
+
+* Report 2 due by 5pm on Tuesday, 3 November 2022
+* Report 4 due by 5pm on Monday, 23 January 2023
+* Report 6 due by 5pm on Monday, 13 March 2023
+
+
+## Late Submission of Laboratory Reports
+
+The [UCD Late Submission of Coursework](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=GD-DOCLAND&ID=137) policy applies.
+
+In particular, from section 5:
+
+5.1. Coursework submitted up to 10 working days past the due date will
+be graded but a grade penalty will be applied.
+
+5.1.1. Coursework submitted at any time up to and including 5 working
+days after the due date will have the grade awarded reduced by one
+grade point (for example, from B- to C+).
+
+5.1.2. Coursework submitted more than 5 working days but up to and
+including 10 working days after the due date will have the grade
+reduced by two grade points (for example, from B- to C).
+
+5.2. Coursework received more than 10 working days after the due date
+will not be accepted or graded.
+
+
 
 
 

@@ -25,8 +25,6 @@ toc: false
 {{< icon name="file-pdf" pack="fas" >}} {{% staticref "files/CovidProcedure.pdf" "newtab" %}} Open as PDF{{% /staticref %}}
 
 
-### Everyone should wear a face mask.
-Anyone who cannot wear a mask should contact emma.sokell@ucd.ie
 
 ### You should sign in/out of the lab using the Google form accessed via the QR codes posted in the labs.
 This information will be used for keeping lab
@@ -67,6 +65,3 @@ attendance records and COVID-19 contact tracing if required.
 
  13. Bags, jackets etc to be stored safely near your experiment.
  
- 14. Computational experiments, introductory exercised, data analysis
-     and report writing to be done remotely. Interactions with staff
-     (questions/interviews) to be arranged via email and conducted remotely, where possible.

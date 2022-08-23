@@ -45,7 +45,8 @@ The code to control the motor is installed in a file called `main.py` which is e
 
 
 A class (`PicoSerial`) is provided in this GitHub repository to facilitate easy communication with the Pi Pico.
-The serial over USB approach basically sends the commands over a serial line and reads back the response that would have been seen in Thonny. Thus, there are extra characters like `'>>>'` which are handled. Also, Python strings must be encoded as UTF8 for sending and decoded from UTF8 for receiving - this is handled automatically by the `PicoSerial` class.
+The serial over USB approach uses the Pi Pico's REPL mode (Read-Evaluate-Print Loop) where commands received by the Pi Pico are read and echod to the terminal (serial line), evaluated, answer printed, and then repeat.
+This means that prompts seen in the terminal in Thonny ('`>>>`') are included and must be handled. Also, Python strings must be encoded as UTF8 for sending and decoded from UTF8 for receiving - this is handled automatically by the `PicoSerial` class. Sample code for doing this is provided.
 
 There is also an issue with timing - to read blocks of text a timeout must be specified and  if a command takes longer than the timeout (default is 1 s) to execute on the Pi Pico then a black line is returned and a re-read must happen. The PicoSerial class has a function which re-reads until a non-empty response is received.
 
@@ -86,15 +87,10 @@ These commands print responses and do not return any values. They are explained 
 
 * returns the current position of the slider in terms of the number of steps the motor has taken from the zero position.
 
-
-1.``intialise()`` - must be called before movement, moves the motor back to the limit switch  
-2.``move(number_of_steps(int), direction(1=away from motor, 0=towards motor))`` -moves the recevier in the specified direction and number of steps  
-3.``get_current_pos()`` - returns the position in number of steps from the limit switch
-
 ### `PicoSerial` class
 
 A class called `PicoSerial` was developed to aid communications with the stepper motor code on the Pi Pico.
-It is in a filed called `picoserial.py` in this repository and you can either copy that file into your working directory or copy and paste the code into a cell in a Jupyter notebook.
+It is in a filed called `picoserial.py` in this repository and you can either copy that file into your working directory or copy and paste the code into a cell in a Jupyter notebook. The REPL approach and code was motivated by this [artice](http://blog.rareschool.com/2021/01/controlling-raspberry-pi-pico-using.html).
 
 Import and make an instance with:
 
@@ -126,7 +122,7 @@ Below is an explanation of the PicoSerial methods:
 
 **`receive_reply(max_reply_attempts: int = 1) -> str`**:
 * Repeatedly calls `receive()` until a non-empty string is returned
-* `max_reply_attempts` is the maximum number of attempts t make before returning.
+* `max_reply_attempts` is the maximum number of attempts to make before returning.
 * it returns a string, which may be empty if timed out. 
 
 **`send(text: str) -> bool`**:
@@ -157,6 +153,8 @@ The device used to take data is a USB oscilloscope ([Picoscope 2204a](https://ww
 
 The Picoscope is used to collect data in Python, where amplitude values may be recorded over a specified timebase.
 
+To communicate with the Pi Pico in Python we use a third-party library available [here](https://github.com/colinoflynn/pico-python)
+
 The steps to use the Picoscope 2204a in Python are:
 1. Import libraries
 2. Open connection to the device
@@ -167,14 +165,16 @@ The steps to use the Picoscope 2204a in Python are:
 7. Read out data and make time array.
 
 
-### Import libraries
+### Steps for reading the Picoscope from Python:
+
+#### Import libraries
 
 The libraries to interface with it must be imported:
 ````Python 
 from picoscope import ps2000
 ````
 
-### Open connection to the device
+#### Open connection to the device
 The scope must then be set up, specifying parameters such as the sampling interval and the duration of the recording  
 Setting up the Picoscope device is shown in the following example:
 ```Python
@@ -182,7 +182,7 @@ Setting up the Picoscope device is shown in the following example:
 ps = ps2000.PS2000()
 ```
 
-### Configure sampling interval
+#### Configure sampling interval
 ```python
 waveform_desired_duration = 50E-6
 obs_duration = 3 * waveform_desired_duration #range plotted
@@ -196,7 +196,7 @@ The ``waveform_desired_duration`` value is specified in seconds, and can help in
 
 The ``sampling_interval`` ensures 4096 samples are taken within the observation window, this divisor may be changed depending on the number of samples required.
 
-### Specify and configure channels to be read out
+#### Specify and configure channels to be read out
 
 The channels must be set up using setChannel, with their sampling voltage range, in the case below it is 10V. The ``setChannel`` command will chose the next largest amplitude.     
 Then the trigger is set using ``setSimpleTrigger()``, in this case on the falling edge of channel A.  
@@ -217,7 +217,7 @@ setChannel(self, channel='A', coupling='AC', VRange=2.0, VOffset=0.0, enabled=Tr
 where the voltage range is set in the example above. This should be chosen based on the signal that you are viewing.
 
 
-### Set up trigger
+#### Set up trigger
 ```python
 ps.setSimpleTrigger('A', 1.0, 'Falling', timeout_ms=100, enabled=True) 
 ```
@@ -228,14 +228,14 @@ setSimpleTrigger(self, trigSrc, threshold_V=0, direction='Rising', delay=0, time
 ````
 Where the channel the scope triggers on and which edge can be chosen.  
 
-### Run the acquisition and wait for ready
+#### Run the acquisition and wait for ready
 
 ```python   
 ps.runBlock()
 ps.waitReady()
 ```
 
-### Readout data and make time array
+#### Readout data and make time array
 
 ```python
 dataA = ps.getDataV('A', nSamples, returnOverflow=False)     #collecting data for both channels 
@@ -247,6 +247,13 @@ dataTimeAxis = np.arange(nSamples) * actualSamplingInterval
 
 Record a data set and then plot using dataTimeAxis as your time axis, check that the plot returns the expected trace.
 
+
+#### Stop and close connection when finished
+
+```python
+ps.stop()
+ps.close()
+```
 
 ### Summary of some useful Picoscope Python commands
 
@@ -265,8 +272,3 @@ Below is a table that provides commands that may be send to the PicoScope and wh
 
 
 
-
-
-```python
-
-```

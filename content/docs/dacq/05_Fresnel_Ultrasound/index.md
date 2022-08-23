@@ -1,5 +1,5 @@
 ---
-title: Fresnel w/ Ultrasound 
+title: Fresnel Diffraction using Ultrasound 
 #linktitle: Fresnel
 
 toc: true
@@ -10,8 +10,6 @@ weight: 60
 Documentation for the control and data acquisition for the Fresnel Diffraction with Ultrasound experiment.
 
 <!--more-->
-
-
 
 ## Introduction
 
@@ -26,7 +24,7 @@ A [Jupyter notebook](https://github.com/JohnQuinn1/Fresnel_Ultrasound/blob/main/
 
 <hr/>
 
-# Data Acquisition for the Fresnel Diffraction with Ultrasound Experiment 
+## Data Acquisition for the Fresnel Diffraction with Ultrasound Experiment 
 
 In this lab a microstepped motor is used to precisely move an ultrasound receiver mounted on a linear slider rail. One-sixteenth microstepping is used and with the lead-screw system very smooth and fine movements are achiavable. **It was measured that 200,000 steps moves the recevier through 50 cm.**
 

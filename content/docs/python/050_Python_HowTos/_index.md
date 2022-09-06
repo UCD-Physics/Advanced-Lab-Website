@@ -1,6 +1,6 @@
 ---
 title: Python HowTos
-date: 2021-08-12
+date: 2022-09-06
 type: book
 weight: 50
 
@@ -9,9 +9,10 @@ icon: book
 icon_pack: fas
 ---
 
-This section will provide a 'how-to' on many basic concepts in
-Python. The aim of this is to provide a reference for anyone who needs
-reminding of how to do certain tasks in Python.
+This section will provide a 'how-to' on many basic concepts in Python,
+Numpy, Scipy and Jupyter Notebooks, . The aim of this is to provide a
+reference for anyone who needs reminding of how to do certain tasks in
+Python.
 
 The links below will
 take you to the UCD Physics 'How-To' repository on GitHub.
@@ -26,18 +27,33 @@ yourself!
 Github. However, some old browsers do not show the rendered notebooks. If the notebooks do not render then please
 try another browser.  {{% /callout %}}
 
-- [How to format your Jupyter Notebook.](https://github.com/UCD-Physics/Python-HowTos/blob/main/How_to_use_markdown_cells.ipynb)
-- [How to format your code.](https://physicslabs.ucd.ie/docs/python/040_coding_guidelines/)
+## Fundamental Python
+- [Guide to formatting your code]({{< relref "/docs/python/040_coding_guidelines" >}})
 - [How to use f-strings.](https://github.com/UCD-Physics/Python-HowTos/blob/main/f_strings.ipynb)
+- [How to write concise functions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Functions.ipynb)
+- [How to use logical conditions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/logical_conditions.ipynb)
+- [How to write loops.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Writing_Loops.ipynb)
+
+
+
+## Jupyter Notebooks
+- [How to format your Jupyter Notebook.](https://github.com/UCD-Physics/Python-HowTos/blob/main/How_to_use_markdown_cells.ipynb)
+- [How to use TQDM progress bars.](https://github.com/UCD-Physics/Python-HowTos/blob/main/tqdm.ipynb)
+
+
+## Numpy, Scipy & Matplotlib
+
 - [How to use numpy.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Numpy.ipynb)
 - [How to import data.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Importing_Data.ipynb)
 - [How to graph your data.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Matplotlib1.ipynb)
 - [How to fit a curve to your data.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Curve_fit.ipynb)
 - [How to plot error bars.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Error_Bars.ipynb)
-- [How to write concise functions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Functions.ipynb)
-- [How to use logical conditions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/logical_conditions.ipynb)
-- [How to write loops.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Writing_Loops.ipynb)
+
+## Computational Lab. Reports
 - [How to format a computational lab report](https://github.com/UCD-Physics/Python-HowTos/blob/main/Computational_Lab_Guideslines.pdf)
+
+
+## Iterfacing
 - [Tips and Tricks for Interfacing](https://github.com/UCD-Physics/Python-HowTos/blob/main/Interfacing.ipynb)
 
 

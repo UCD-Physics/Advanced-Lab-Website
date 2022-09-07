@@ -30,9 +30,10 @@ try another browser.  {{% /callout %}}
 ## Fundamental Python
 - [Guide to formatting your code]({{< relref "/docs/python/040_coding_guidelines" >}})
 - [How to use f-strings.](https://github.com/UCD-Physics/Python-HowTos/blob/main/f_strings.ipynb)
-- How to use lists
-- How to use tuples
-- How to use dictionaries
+- [How to use lists.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Lists.ipynb)
+- [How to use tuples.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Tuples.ipynb)
+- [How to use dictionaries.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Dictionaries.ipynb)
+- [How to use sets.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Sets.ipynb)
 - [How to use logical conditions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/logical_conditions.ipynb)
 - [How to write loops.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Writing_Loops.ipynb)
 - [How to write and use functions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Functions2.ipynb)

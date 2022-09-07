@@ -27,6 +27,12 @@ Guidelines for the preparation of reports in the Stage 3 and Stage 4
 Advanced Laboratories can be found here:
 [ReportGuidelines.pdf](https://physicslabs.ucd.ie/~apl/labs_master/docs/2021/Report_and_Plagiarism/ReportGuidelines.pdf)
 
+Guidelines for the Computational Physics Lab report can be found here:
+{{% staticref "files/Computational_Lab_Guidelines.pdf"
+%}}Computational Report Guidelines{{% /staticref %}}.
+
+
+
 ## Plagiarism
 
 Students are reminded that they are expected to develop and

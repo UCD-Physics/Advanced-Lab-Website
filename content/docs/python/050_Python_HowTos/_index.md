@@ -30,9 +30,12 @@ try another browser.  {{% /callout %}}
 ## Fundamental Python
 - [Guide to formatting your code]({{< relref "/docs/python/040_coding_guidelines" >}})
 - [How to use f-strings.](https://github.com/UCD-Physics/Python-HowTos/blob/main/f_strings.ipynb)
-- [How to write concise functions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Functions.ipynb)
+- How to use lists
+- How to use tuples
+- How to use dictionaries
 - [How to use logical conditions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/logical_conditions.ipynb)
 - [How to write loops.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Writing_Loops.ipynb)
+- [How to write and use functions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Functions2.ipynb)
 
 
 
@@ -50,7 +53,7 @@ try another browser.  {{% /callout %}}
 - [How to plot error bars.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Error_Bars.ipynb)
 
 ## Computational Lab. Reports
-- [How to format a computational lab report](https://github.com/UCD-Physics/Python-HowTos/blob/main/Computational_Lab_Guideslines.pdf)
+- {{% staticref "files/Computational_Lab_Guidelines.pdf" %}}Computational Lab Guidelines{{% /staticref %}}.
 
 
 ## Iterfacing

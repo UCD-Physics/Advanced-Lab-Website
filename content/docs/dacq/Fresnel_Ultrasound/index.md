@@ -33,7 +33,7 @@ The motor is controlled by a Raspberry Pi Pico, which can be communicated with o
 The data acquisition is carried out in Python using a Picoscope, which is a USB oscilloscope.
 
 
-## Raspberry Pi Pico
+### Raspberry Pi Pico
 
 The [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) is a microcontroller that runs [Micropython](https://micropython.org). 
 
@@ -50,45 +50,58 @@ There is also an issue with timing - to read blocks of text a timeout must be sp
 
 Note: sometimes the Pi Pico needs to be re-started after using Thonny so that it can communicate with the PC using Python and PySerial. If you need to restart it you must turn off the power to the power supply and also disconnect the USB cable from the computer.  
 
-### Stepper Motor functions on the Pi Pico
+#### Stepper Motor functions on the Pi Pico
 
 The functions for moving the stepped motor defined in `main.py` on the Pi Pico are:
 
 
 | Function | 
 |----------|
-| `initialise()` | 
-| `move(steps: int)` | 
-| `get_current_pos()`|
+| `initialise()` |
+| `move(steps: int)` |  
+| `get_current_pos() -> int`|
+| `get_max_pos() -> int` | 
 
 These commands print responses and do not return any values. They are explained below:
 
 **`intialise()`**:
 * must be called when system is first powered up or if limit switch is accidentally hit
 * it moves the slider until the limit switch is activated and then backs away until the limit switch is released. This is defined to be the zero position. Note: on some rare occasions this can be on the edge and the limit switch can activate in the zero position
-* It prints `'Initialising'` immediately once called and then prints `'Initialised'` once finished. If the slider is a long way from the limit switch it can take considerably  more than one second and hence the serial may time out.
+* the function does not return a value but prints values which must be handled.
+    * it prints `'Initialising'` immediately once called and then prints `'Initialised'` once finished. If the slider is a long way from the limit switch it can take considerably more than one second and hence the serial may time out.
 * if the slider is moved so that the limit switch is accidentally activated the `initialise()` must be called again.
+
 
 
 
 **`move(steps: int)`**:
 * moves the motor some number of steps.
-* the only argument, `steps` is an integer and if it is positive then the slider moves away from the limit switch whereas if it is negative the slider moves towards the limit switch..
-* The function immediately prints `'Moving'` when called and then `'Success'` when it successfully finishes moving the slider.
-* It may also print one of the following errors if there is a problem:
+* the only argument, `steps` is an integer and if it is positive then the slider moves away from the limit switch whereas if it is negative the slider moves towards the limit switch.
+* the function does not return a value but prints values which must be handled.
+    * the function immediately prints `'Moving'` when called and then `'Success'` when it successfully finishes moving the slider.
+* it may also print one of the following errors if there is a problem:
     * `'Error: Not initialised!'`
     * `'Error: Beyond limit requested - not moved'` (if attempt to move beyond the maximum limit of 200,000 steps set in software)
     * `'Error: Limit switch hit - you must re-initilise() before moving again.'`
 
 
-**`get_current_pos()`**:
+**`get_current_pos() -> int`**:
 
 * returns the current position of the slider in terms of the number of steps the motor has taken from the zero position.
 
-### `PicoSerial` class
+**`get_max_pos() -> int`**:
 
-A class called `PicoSerial` was developed to aid communications with the stepper motor code on the Pi Pico.
-It is in a filed called `picoserial.py` in this repository and you can either copy that file into your working directory or copy and paste the code into a cell in a Jupyter notebook. The REPL approach and code was motivated by this [artice](http://blog.rareschool.com/2021/01/controlling-raspberry-pi-pico-using.html).
+* returns the maximum position of the slider in terms of the number of steps the motor can make from the zero position.
+
+####  `PicoSerial` class
+
+A class called `PicoSerial` was developed to aid communications between Python running on the PC and the stepper motor code on the Pi Pico.
+
+It is in a filed called `picoserial.py` in this repository and you can either copy that file into your working directory or copy and paste the code into a cell in a Jupyter notebook. Here is a direct [link to PicoSerial.py on github](https://github.com/JohnQuinn1/Fresnel_Ultrasound/blob/main/picoserial.py).
+
+The REPL approach and code were motivated by this [artice](http://blog.rareschool.com/2021/01/controlling-raspberry-pi-pico-using.html).
+
+##### PicoSerial usage:
 
 Import and make an instance with:
 
@@ -145,7 +158,7 @@ Initialised
 ```
 
 
-## The USB Picoscope
+### The USB Picoscope
 
 The device used to take data is a USB oscilloscope ([Picoscope 2204a](https://www.picotech.com/oscilloscope/2000/picoscope-2000-overview)). It functions in the same way as a regular oscilloscope, with channels that read voltage data, however it is controlled using a PC. There is a PicoScope program that shows the traces, and this should be used to check the trace before taking data in Python. The appropriate timebase and voltage range may be determined by viewing the traces in this application.
 
@@ -163,7 +176,7 @@ The steps to use the Picoscope 2204a in Python are:
 7. Read out data and make time array.
 
 
-### Steps for reading the Picoscope from Python:
+#### Steps for reading the Picoscope from Python:
 
 #### Import libraries
 
@@ -253,7 +266,7 @@ ps.stop()
 ps.close()
 ```
 
-### Summary of some useful Picoscope Python commands
+#### Summary of some useful Picoscope Python commands
 
 Below is a table that provides commands that may be send to the PicoScope and what is returned:
 

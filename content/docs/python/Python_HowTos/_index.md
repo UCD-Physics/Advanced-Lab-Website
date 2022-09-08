@@ -28,7 +28,7 @@ Github. However, some old browsers do not show the rendered notebooks. If the no
 try another browser.  {{% /callout %}}
 
 ## Fundamental Python
-- [Guide to formatting your code]({{< relref "/docs/python/040_coding_guidelines" >}})
+- [Guide to formatting your code]({{< relref "/docs/python/coding_guidelines" >}})
 - [How to use f-strings.](https://github.com/UCD-Physics/Python-HowTos/blob/main/f_strings.ipynb)
 - [How to use lists.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Lists.ipynb)
 - [How to use tuples.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Tuples.ipynb)

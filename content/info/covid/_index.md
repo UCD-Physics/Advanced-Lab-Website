@@ -20,6 +20,10 @@ weight: 1
 # table fo contents on right-hand side
 toc: false
 
+
+tags:
+ - featured
+ 
 ---
 
 {{< icon name="file-pdf" pack="fas" >}} {{% staticref "files/CovidProcedure.pdf" "newtab" %}} Open as PDF{{% /staticref %}}
@@ -49,19 +53,17 @@ attendance records and COVID-19 contact tracing if required.
  6. Equipment and benches to be wiped down by students regularly and
     certainly before/after each experiment.
 
- 7. Individual experiments will be separated to ensure 2m separation between students.
-
- 8. Students should work at their assigned experiment and avoid unnecessary
+ 7. Students should work at their assigned experiment and avoid unnecessary
     circulation around or between labs.
 
- 9. Do not switch equipment between experiments. Ask staff/demonstrators if you think
+ 8. Do not switch equipment between experiments. Ask staff/demonstrators if you think
     there is a problem with your equipment.
 
- 10. Shared equipment eg Gauss meter, should be returned after use to Paul.
+ 9. Shared equipment eg Gauss meter, should be returned after use to Paul.
      It should be cleaned before and after use.
 
- 11. Nothing to be left behind on benches. Anything left behind at the end of
+ 10. Nothing to be left behind on benches. Anything left behind at the end of
      a session will be binned.
 
- 13. Bags, jackets etc to be stored safely near your experiment.
+ 11. Bags, jackets etc to be stored safely near your experiment.
  

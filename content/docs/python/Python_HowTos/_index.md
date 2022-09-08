@@ -7,6 +7,10 @@ weight: 50
 toc: true
 icon: book
 icon_pack: fas
+
+tags:
+ - featured
+
 ---
 
 This section will provide a 'how-to' on many basic concepts in Python,

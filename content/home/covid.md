@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "APL and COVID-19"
 
@@ -37,7 +37,7 @@ hero_media = "covid.svg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "covid/"
+  url = "info/covid/"
   label = "COVID-19 Protocol"
   icon_pack = "fas"
   icon = "link"

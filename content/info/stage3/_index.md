@@ -98,7 +98,7 @@ be split into roughly three equal duration parts:
 * becoming familiar with the experiment, writing statement of intent,
    setting up and writing data acquisition code if relevant,
 
-* carrying out and refining the experiment inlcuding preliminrary data
+* carrying out and refining the experiment including preliminary data
   analysis
 
 * final analysis and report writing.

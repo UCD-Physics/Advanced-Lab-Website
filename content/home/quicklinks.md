@@ -7,7 +7,7 @@ headless: true  # This file represents a page section.
 
 title: Quicklinks...
 
-weight: 30
+weight: 20
 
 content:
 
@@ -48,10 +48,11 @@ design:
 
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(134,134,154)'
-    gradient_end: 'rgb(153,204,255)'
+    #gradient_start: 'rgb(134,134,154)'
+    #gradient_end: 'rgb(153,204,255)'
+    gradient_end: 'rgb(134,200,154)'
+    gradient_start: 'rgb(153,204,255)'
     
-
 
 ---
 

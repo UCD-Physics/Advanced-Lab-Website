@@ -25,7 +25,7 @@ yourself!
 
 {{% callout warning %}} The Jupyter notebooks should be rendered
 statically on Github from which you can click the colab link to open
-in Goole Colab. However, some old browsers do not show the GitHub-rendered
+in Google Colab. However, some old browsers do not show the GitHub-rendered
 notebooks. If the notebooks do not render then please try another
 browser.  {{% /callout %}}
 

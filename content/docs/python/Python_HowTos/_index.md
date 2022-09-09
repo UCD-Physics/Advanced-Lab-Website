@@ -1,5 +1,5 @@
 ---
-title: Python HowTos
+title: Python How Tos
 date: 2022-09-06
 type: book
 weight: 50
@@ -13,8 +13,8 @@ tags:
 
 ---
 
-This section will provide a 'how-to' on many basic concepts in Python,
-Numpy, Scipy and Jupyter Notebooks, . The aim of this is to provide a
+This section will provide  'how-to's on many basic concepts in Python,
+Numpy, Scipy and Jupyter Notebooks. The aim of this is to provide a
 reference for anyone who needs reminding of how to do certain tasks in
 Python.
 
@@ -38,6 +38,7 @@ browser.  {{% /callout %}}
 
 ## Fundamental Python
 - [Guide to formatting your code]({{< relref "/docs/python/coding_guidelines" >}})
+- How to use strings.
 - [How to use f-strings.](https://github.com/UCD-Physics/Python-HowTos/blob/main/f_strings.ipynb)
 - [How to use lists.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Lists.ipynb)
 - [How to use tuples.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Tuples.ipynb)
@@ -50,7 +51,7 @@ browser.  {{% /callout %}}
 
 
 ## Jupyter Notebooks
-- [How to format your Jupyter Notebook.](https://github.com/UCD-Physics/Python-HowTos/blob/main/How_to_use_markdown_cells.ipynb)
+- [How to format your Jupyter Notebook with Markdown.](https://github.com/UCD-Physics/Python-HowTos/blob/main/How_to_use_markdown_cells.ipynb)
 - [How to use TQDM progress bars.](https://github.com/UCD-Physics/Python-HowTos/blob/main/tqdm.ipynb)
 
 
@@ -66,8 +67,9 @@ browser.  {{% /callout %}}
 - {{% staticref "files/Computational_Lab_Guidelines.pdf" %}}Computational Lab Guidelines{{% /staticref %}}.
 
 
-## Iterfacing
+## Interfacing
 - [Tips and Tricks for Interfacing](https://github.com/UCD-Physics/Python-HowTos/blob/main/Interfacing.ipynb)
-
+- How to save your data to a file
+- How to do bitwise operations in Python
 
 

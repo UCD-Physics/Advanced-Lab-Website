@@ -30,6 +30,8 @@ will be updated as the trimester progresses.
 * _Data Analysis_, Assoc. Prof. John Quinn, Wednesday 21 September at 14:00 (Science South SCS 1.67) [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S3Intro/Stage3_Data_Analysis_2223.pdf)
 * _Report Writing_, Prof. Emma Sokell, Thursday 22 September at 14:00 (Science Suth SCS 3.56) [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S3Intro/Stage3_Report_Writing_2223.pdf)
 
+---
+
 ## Advanced Laboratory Hours and Dates 2022-2023
 
 The laboratories are open with demonstrator and staff support from 2 pm
@@ -41,11 +43,11 @@ you must inform a staff member.
 using the Google form accessed via the QR code posted in the labs.
 {{% /callout %}}
 
-### Physics and Physics with Astronomy and Space Science:
+#### Physics and Physics with Astronomy and Space Science:
 
 Trimester 1: Tuesday 13 September 2022 to Thursday, 1 December 2022.
 
-Trimester 2: Tuesday, 23 January 2023 to Thursday 30 March 2023.
+Trimester 2: Tuesday, 24 January 2023 to Thursday 30 March 2023.
 
 {{% callout note %}} The Physics and PASS laboratories run during the two-week
 field-work break (13 - 24 March 2023) and close four weeks before the
@@ -54,16 +56,17 @@ written examinations start.  {{% /callout %}}
 
 
 
-### Theoretical Physics:
+#### Theoretical Physics:
 
 Trimester 1: Tuesday 13 September 2022 to Thursday, 3 November 2022.
 
-Trimester 2: Tuesday, 23 January 2023 to Thursday 16 March 2023.
+Trimester 2: Tuesday, 24 January 2023 to Thursday 16 March 2023.
 
 {{% callout note %}} The TP laboratories run during the first week of the two-week
 field-work break (13 - 16 March 2023) to enable all assessment to be complete before
 written examinations start.  {{% /callout %}}
 
+---
 
 ## Advanced Laboratory Number of Experiments
 
@@ -72,6 +75,7 @@ students in 20 credit lab modules (Physics and PASS) will undertake 8 labs in to
 while students in 10 credit lab modules will undetake 4 labs in total (2 per trimester).
 One-trimester study abroad students will undertake the appropriate number of labs in the relevant trimester.
 
+---
 
 ## Advanced Laboratory Aims
 
@@ -83,6 +87,7 @@ experimental planning, execution and analysis. It is important to
 give sufficient time to doing the experiment and not to put all the
 emphasis on writing the report.
 
+---
 
 ## Laboratory Reports
 
@@ -116,7 +121,7 @@ The hard deadlines for submission of laboratory reports are:
 
 #### Physics and Physics with Astronomy and Space Science:
 
-* Report 2 due by 5pm on Tuesday, 3 November 2022
+* Report 2 due by 5pm on Tuesday, 1 November 2022
 * Report 4 due by 5pm on Monday, 23 January 2023
 * Report 8 due by 5pm on Tuesday, 11 April 2023
 
@@ -126,6 +131,7 @@ The hard deadlines for submission of laboratory reports are:
 * Report 2 due by 5pm on Monday, 14 November 2022
 * Report 4 due by 5pm on Monday, 3 April 2023
 
+---
 
 ## Late Submission of Laboratory Reports
 

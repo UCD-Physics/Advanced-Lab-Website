@@ -58,7 +58,7 @@ browser.  {{% /callout %}}
 ## Numpy, Scipy & Matplotlib
 
 - [How to use numpy.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Numpy.ipynb)
-- [How to import data.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Importing_Data.ipynb)
+- [How to import data.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Importing_Data_Numpy.ipynb)
 - [How to graph your data.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Matplotlib1.ipynb)
 - [How to fit a curve to your data.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Curve_fit.ipynb)
 - [How to plot error bars.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Error_Bars.ipynb)
@@ -69,7 +69,8 @@ browser.  {{% /callout %}}
 
 ## Interfacing
 - [Tips and Tricks for Interfacing](https://github.com/UCD-Physics/Python-HowTos/blob/main/Interfacing.ipynb)
-- How to save your data to a file
+- [How to save your data to a file](https://github.com/UCD-Physics/Python-HowTos/blob/main/Saving_Data_Numpy.ipynb)
+
 - How to do bitwise operations in Python
 
 

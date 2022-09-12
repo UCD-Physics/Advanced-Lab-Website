@@ -24,6 +24,14 @@ room Science East SCE E0.01.
 
 Slides from the Introductory Lecture by Dr. Vintro are available [here](http://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S4Intro/Stage4_Introduction_2223.pdf).
 
+---
+
+## Report-Writing Refresher Session
+
+Prof. Emma Sokell will conduct a report-writing refresher session on
+Thursday, 22 September at 4pm in Science South SCS 1.67.
+
+---
 
 ## Advanced Laboratory Hours and Dates 2022-2023
 
@@ -40,18 +48,35 @@ using the Google form accessed via the QR code posted in the labs.
 
 The dates for the laboratories are:
 
+#### PHYC 40600 and PHYC 40970 (15 credit, two-trimester)
 * Trimester 1:  Tuesday 13 September to Thursday 1 December 2022
 * Trimester 2:  Tuesday 24 January to Thursday 2 March 2023
 
+#### PHYC 40330 and PHYC 40690 (5 credit, one-trimester)
+* Trimester 1:  Tuesday 13 September to Thursday 1 December 2022<br>
+or
+* Trimester 2: Tuesday 24 January to Thurday 23 March 2023
+
+
+---
 
 ## Report Submission Deadlines
 
 The hard deadlines for submission of laboratory reports are:
 
-* Report 2 due by 5pm on Tuesday, 3 November 2022
-* Report 4 due by 5pm on Monday, 23 January 2023
-* Report 6 due by 5pm on Monday, 13 March 2023
+#### PHYC 40600 and PHYC 40970 (15 credit, two-trimester)
 
+* Report 2 due by 5pm on Tuesday 1 November 2022
+* Report 4 due by 5pm on Monday 23 January 2023
+* Report 6 due by 5pm on Monday 13 March 2023
+
+
+#### PHYC 40330 and PHYC 40690 (5 credit, one-trimester)
+* Reports 1 & 2 due by 5pm on Monday 14 November 2022 <br>
+or
+* Reports 1 & 2 due by 5pm on Monday 3 April 2023
+
+---
 
 ## Late Submission of Laboratory Reports
 

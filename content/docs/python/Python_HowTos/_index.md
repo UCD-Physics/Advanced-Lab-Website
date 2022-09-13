@@ -72,6 +72,6 @@ browser.  {{% /callout %}}
 - [Tips and Tricks for Interfacing](https://github.com/UCD-Physics/Python-HowTos/blob/main/Interfacing.ipynb)
 - [How to save your data to a file](https://github.com/UCD-Physics/Python-HowTos/blob/main/Saving_Data_Numpy.ipynb)
 
-- How to do bitwise operations in Python
+- [How to do bitwise operations in Python](https://github.com/UCD-Physics/Python-HowTos/blob/main/Bitwise_operations.ipynb)
 
 

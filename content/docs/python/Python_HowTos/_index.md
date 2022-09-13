@@ -21,11 +21,12 @@ Python.
 The links below will
 take you to the UCD Physics 'How-To' repository on GitHub.
 
-Here, you can browse
-through the material, but if you wish to run the code or edit it to
-help your understanding, you can **click the 'open in colab' link** which
-will bring you to a webpage where you can easily run the code
-yourself!
+{{% callout note %}}
+From any of the HowTo Notebooks on Github you can **click the 'open in colab' link** which
+will open a copy of the page in Google Colab  where you can easily run the code
+yourself and edit it to check if the changes do as you expect !
+{{% /callout %}}
+
 
 {{% callout warning %}} The Jupyter notebooks should be rendered
 statically on Github from which you can click the colab link to open

@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Stage 4
 summary: Information for Stage 4 APL.
-weight: 20
+weight: 40
 icon: book-reader
 icon_pack: fas
 

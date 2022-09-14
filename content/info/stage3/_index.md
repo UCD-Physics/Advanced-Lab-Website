@@ -6,7 +6,7 @@ title: Stage 3
 #linktitle: Stage 3
 
 summary: Information for Stage 3 APL
-weight: 10
+weight: 30
 
 # Page metadata.
 type: book

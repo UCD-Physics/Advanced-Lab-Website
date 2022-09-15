@@ -16,6 +16,19 @@ things to look out for.
 
 {{< toc hide_on="xl" >}}
 
+## Please save your data!
+
+{{% callout note %}}
+
+Please save your data to a file! <br> If you analyse the data in the
+notebook in which it was acquired without saving it then you will be
+unable to analyse it on a different machine. To make even a minor
+change (e.g. adding a title to the graph) in the notebook in which it
+was acquired after a restart will require you to take the data again!
+
+{{% /callout %}}
+
+
 ## General DACQ program structure
 
 While different experiments may have different data acquisition and

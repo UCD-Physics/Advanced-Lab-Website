@@ -45,7 +45,7 @@ browser.  {{% /callout %}}
 - [How to use tuples.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Tuples.ipynb)
 - [How to use dictionaries.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Dictionaries.ipynb)
 - [How to use sets.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Sets.ipynb)
-- [How to use logical conditions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Logic.ipynb)
+- [How to use logical conditions (incl. `if, elif, else` statements)](https://github.com/UCD-Physics/Python-HowTos/blob/main/Logic.ipynb)
 - [How to write `for` loops.](https://github.com/UCD-Physics/Python-HowTos/blob/main/For_Loops.ipynb)
 - [How to write `while` loops.](https://github.com/UCD-Physics/Python-HowTos/blob/main/While_Loops.ipynb)
 - [How to write and use functions.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Functions2.ipynb)

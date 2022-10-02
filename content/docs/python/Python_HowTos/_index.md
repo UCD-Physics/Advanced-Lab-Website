@@ -57,13 +57,17 @@ browser.  {{% /callout %}}
 - [How to use TQDM progress bars.](https://github.com/UCD-Physics/Python-HowTos/blob/main/tqdm.ipynb)
 
 
-## Numpy, Scipy & Matplotlib
 
+## Numpy & Scipy
+- [Numpy -vs- Standard Python](https://github.com/UCD-Physics/Python-HowTos/blob/main/Numpy-vs-StandardPython.ipynb)
 - [How to use numpy.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Numpy.ipynb)
 - [How to import data.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Importing_Data_Numpy.ipynb)
+- [How to fit a curve to your data.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Curve_fit.ipynb)
+
+## Matplotlib
 - [How to graph your data.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Matplotlib1.ipynb)
 - [How to plot error bars.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Error_Bars.ipynb)
-- [How to fit a curve to your data.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Curve_fit.ipynb)
+- [How to plot histograms.](https://github.com/UCD-Physics/Python-HowTos/blob/main/Pyplot_Hist.ipynb)
 
 
 ## Computational Lab. Reports

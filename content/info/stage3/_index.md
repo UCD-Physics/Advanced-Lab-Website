@@ -29,7 +29,7 @@ will be updated as the trimester progresses.
 * _Data Acquisition in Python_, Assoc. Prof. John Quinn, Wednesday 14 September at 14:00 (Science North SCN 2.32) [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S3Intro/Stage3_Python_2223.pdf)
 * _Data Analysis_, Assoc. Prof. John Quinn, Wednesday 21 September at 14:00 (Science South SCS 1.67) [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S3Intro/Stage3_Data_Analysis_2223.pdf)
 * _Report Writing_, Prof. Emma Sokell, Thursday 22 September at 14:00 (Science South SCS 3.56) [[Manual.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2022/Report_and_Plagiarism/Manual.pdf), [[Report.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2022/Report_and_Plagiarism/Report.pdf)
-
+* _Welcome Back!_,  Prof. Emma Sokell, Tuesday 25 January 2023 at 14:00 (Science North 2.31)  [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S3Intro/Stage3_Lab_Intro_2223_part2.pdf)
 ---
 
 ## Advanced Laboratory Hours and Dates 2022-2023
@@ -123,6 +123,7 @@ The hard deadlines for submission of laboratory reports are:
 
 * Report 2 due by 5pm on Tuesday, 1 November 2022
 * Report 4 due by 5pm on Monday, 23 January 2023
+* Report 6 due by 5pm on Monday, 13 March 2023
 * Report 8 due by 5pm on Tuesday, 11 April 2023
 
 

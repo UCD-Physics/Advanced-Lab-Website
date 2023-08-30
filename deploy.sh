@@ -9,11 +9,11 @@ mv public apl
 
 tar zcvf apl.tgz apl
 
-scp apl.tgz apl@veritas.ucd.ie:/var/www/html/physicslabs
+scp apl.tgz apl@veritas.ucd.ie:/Library/WebServer/apl
 
 rm -rf apl*
 
-ssh apl@veritas.ucd.ie "rm -rf /var/www/html/physicslabs/apl"
+ssh apl@veritas.ucd.ie "rm -rf /Library/WebServer/apl/apl"
 
-ssh apl@veritas.ucd.ie "cd /var/www/html/physicslabs/; tar zxvf apl.tgz; rm apl.tgz"
+ssh apl@veritas.ucd.ie "cd /Library/WebServer/apl; tar zxvf apl.tgz; rm apl.tgz"
 

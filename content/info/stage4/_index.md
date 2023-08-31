@@ -19,21 +19,25 @@ tags:
 ## Introductory Lecture
 
 The Stage 4 Advanced Laboratory Introductory Talk will be given by
-Assoc. Prof. Luis Leon-Vintro at 2pm on Tuesday, 13 September 2022 in
-room Science East SCE E0.01. 
+Assoc. Prof. Luis Leon-Vintro at 2pm on Tuesday 12 September 2023 in
+room B000-BH (Beech Hill). 
 
-Slides from the Introductory Lecture by Dr. Vintro are available [here](http://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S4Intro/Stage4_Introduction_2223.pdf).
+Slides from the Introductory Lecture by Dr. Vintro are available [here](http://physicslabs.ucd.ie/~apl/labs_master/docs/2023/S4Intro/Stage4_Introduction_2324.pdf).
 
 ---
 
 ## Report-Writing Refresher Session
 
 Prof. Emma Sokell will conduct a report-writing refresher session on
-Thursday, 22 September at 4pm in Science South SCS 1.67.
+Thursday 21 September at 4pm in room B000-BH (Beech Hill). 
 
 ---
 
-## Advanced Laboratory Hours and Dates 2022-2023
+## Advanced Laboratory Hours and Dates 2023-2024
+
+{{% callout note %}} All students are required to sign in and out of the lab
+using the Google form accessed via the QR code posted in the labs.
+{{% /callout %}}
 
 
 The laboratories are open with demonstrator and staff support from 2 pm
@@ -41,21 +45,17 @@ to 6 pm on Tuesday, Wednesday and Thursday afternoons.  In addition,
 they may be accessed on Tuesday, Wednesday and Thursday mornings from 11 am but
 you must inform a staff member.
 
-{{% callout note %}} All students are required to sign in and out of the lab
-using the Google form accessed via the QR code posted in the labs.
-{{% /callout %}}
-
 
 The dates for the laboratories are:
 
 #### PHYC 40600 and PHYC 40970 (15 credit, two-trimester)
-* Trimester 1:  Tuesday 13 September to Thursday 1 December 2022
-* Trimester 2:  Tuesday 24 January to Thursday 2 March 2023
+* Trimester 1:  Tuesday 12 September to Thursday 30 November 2023
+* Trimester 2:  Tuesday 23 January to Thursday 29 February 2024
 
 #### PHYC 40330 and PHYC 40690 (5 credit, one-trimester)
-* Trimester 1:  Tuesday 13 September to Thursday 1 December 2022<br>
+* Trimester 1:  Tuesday 12 September to Thursday 30 November 2023<br>
 or
-* Trimester 2: Tuesday 24 January to Thurday 23 March 2023
+* Trimester 2: Tuesday 23 January to Friday 15 March 2024
 
 
 ---
@@ -66,15 +66,15 @@ The hard deadlines for submission of laboratory reports are:
 
 #### PHYC 40600 and PHYC 40970 (15 credit, two-trimester)
 
-* Report 2 due by 5pm on Tuesday 1 November 2022
-* Report 4 due by 5pm on Monday 23 January 2023
-* Report 6 due by 5pm on Monday 13 March 2023
+* Report 2 due by 5pm on Tuesday 31 October 2023
+* Report 4 due by 5pm on Monday 22 January 2024
+* Report 6 due by 5pm on Monday 11 March 2023
 
 
 #### PHYC 40330 and PHYC 40690 (5 credit, one-trimester)
-* Reports 1 & 2 due by 5pm on Monday 14 November 2022 <br>
+* Reports 1 & 2 due by 5pm on Monday 13 November 2022 <br>
 or
-* Reports 1 & 2 due by 5pm on Monday 3 April 2023
+* Reports 1 & 2 due by 5pm on Tuesday 2 April 2023
 
 ---
 

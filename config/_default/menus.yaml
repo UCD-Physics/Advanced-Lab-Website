@@ -5,7 +5,7 @@ main:
    weight: 10
 
  - name: "Beech Hill"
-   url:  'beech_hill/'
+   url:  'info/beech_hill/'
    parent: info
    weight: 11
 

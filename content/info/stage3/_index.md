@@ -23,34 +23,42 @@ will be updated as the trimester progresses.
 
 {{< toc hide_on="xl" >}}
 
-## Introductory Talks
+## Introductory Talks 2023-2024
 
-* _Welcome and Introduction to the Advanced Laboratories_, Prof. Emma Sokell, Tuesday 13 September 2022 at 14:00 (Science South S1.67)  [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S3Intro/Stage3_Lab_Intro_2223.pdf)
-* _Data Acquisition in Python_, Assoc. Prof. John Quinn, Wednesday 14 September at 14:00 (Science North SCN 2.32) [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S3Intro/Stage3_Python_2223.pdf)
-* _Data Analysis_, Assoc. Prof. John Quinn, Wednesday 21 September at 14:00 (Science South SCS 1.67) [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S3Intro/Stage3_Data_Analysis_2223.pdf)
-* _Report Writing_, Prof. Emma Sokell, Thursday 22 September at 14:00 (Science South SCS 3.56) [[Manual.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2022/Report_and_Plagiarism/Manual.pdf), [[Report.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2022/Report_and_Plagiarism/Report.pdf)
-* _Welcome Back!_,  Prof. Emma Sokell, Tuesday 25 January 2023 at 14:00 (Science North 2.31)  [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2022/S3Intro/Stage3_Lab_Intro_2223_part2.pdf)
+
+| Topic | Presenter | Date | Time | Location | slides |
+|-------|-----------|------|------|----------|--------|
+|Welcome and Introduction to the Advanced Laboratories| Prof. Emma Sokell | Tuesday 12 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2023/S3Intro/Stage3_Lab_Intro_2324.pdf) |
+|Data Acquisition in Python| Assoc. Prof. John Quinn | Wednesday 13 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2023/S3Intro/Stage3_Python_2324.pdf)|
+|Data Analysis| Assoc. Prof. John Quinn | Wednesday 20 September| 14:00-15:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2023/S3Intro/Stage3_Data_Analysis_2324.pdf)|
+|Report Writing | Prof. Emma Sokell| Thursday 21 September | 14:00-14;50 | B106-BH | [[Manual.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2022/Report_and_Plagiarism/Manual.pdf), [[Report.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2022/Report_and_Plagiarism/Report.pdf)|
+
 ---
 
-## Advanced Laboratory Hours and Dates 2022-2023
-
-The laboratories are open with demonstrator and staff support from 2 pm
-to 6 pm on Tuesday, Wednesday and Thursday afternoons.  In addition,
-they may be accessed on Tuesday, Wednesday and Thursday mornings from 11 am but
-you must inform a staff member.
+## Advanced Laboratory Hours and Dates 2023-2024
 
 {{% callout note %}} All students are required to sign in and out of the lab
 using the Google form accessed via the QR code posted in the labs.
 {{% /callout %}}
 
+The laboratories are open with demonstrator and staff support from 2
+pm to 6 pm on Tuesday, Wednesday and Thursday afternoons.
+
+You should attend during all time-tabled hours and are welcome to attend outside of time-tabled hours.
+
+In addition, the labs may be
+accessed on Tuesday, Wednesday and Thursday mornings from 11 am but
+you must inform a staff member and sign in.
+
+
 #### Physics and Physics with Astronomy and Space Science:
 
-Trimester 1: Tuesday 13 September 2022 to Thursday, 1 December 2022.
+Trimester 1: Tuesday 12 September 2023 to Thursday 30 November 2023.
 
-Trimester 2: Tuesday, 24 January 2023 to Thursday 30 March 2023.
+Trimester 2: Tuesday, 23 January 2024 to Thursday 28 March 2024.
 
 {{% callout note %}} The Physics and PASS laboratories run during the two-week
-field-work break (13 - 24 March 2023) and close four weeks before the
+field-work break (11 - 22 March 2023) and close four weeks before the
 end of the trimester to enable all assessment to be complete before
 written examinations start.  {{% /callout %}}
 
@@ -58,22 +66,29 @@ written examinations start.  {{% /callout %}}
 
 #### Theoretical Physics:
 
-Trimester 1: Tuesday 13 September 2022 to Thursday, 3 November 2022.
+Trimester 1: Tuesday 12 September 2023 to Thursday 2 November 2024.
 
-Trimester 2: Tuesday, 24 January 2023 to Thursday 16 March 2023.
+Trimester 2: Tuesday 23 January 2024 to Thursday 14 March 2024.
 
 {{% callout note %}} The TP laboratories run during the first week of the two-week
-field-work break (13 - 16 March 2023) to enable all assessment to be complete before
+field-work break (11 - 15 March 2023) to enable all assessment to be complete before
 written examinations start.  {{% /callout %}}
 
 ---
 
 ## Advanced Laboratory Number of Experiments
 
-Each laboratory experiment (including Computational Physics exercise) counts as 2.5 credits so
-students in 20 credit lab modules (Physics and PASS) will undertake 8 labs in total (4 per trimester)
-while students in 10 credit lab modules will undetake 4 labs in total (2 per trimester).
-One-trimester study abroad students will undertake the appropriate number of labs in the relevant trimester.
+Each laboratory experiment (including Computational Physics exercise)
+counts as 2.5 credits.
+
+Students in 20 credit lab modules (Physics
+and PASS) will undertake 8 labs in total (4 per trimester).
+
+Students in 10 credit lab modules will undetake 4 labs in total (2 per
+trimester).
+
+One-trimester study-abroad students will undertake the
+appropriate number of labs in the relevant trimester.
 
 ---
 
@@ -121,16 +136,16 @@ The hard deadlines for submission of laboratory reports are:
 
 #### Physics and Physics with Astronomy and Space Science:
 
-* Report 2 due by 5pm on Tuesday, 1 November 2022
-* Report 4 due by 5pm on Monday, 23 January 2023
-* Report 6 due by 5pm on Monday, 13 March 2023
-* Report 8 due by 5pm on Tuesday, 11 April 2023
+* Report 2 due by 5pm on Tuesday 31 October 2023
+* Report 4 due by 5pm on Monday 22 January 2024
+* Report 6 due by 5pm on Monday 11 March 2024
+* Report 8 due by 5pm on Monday 08 April 2024
 
 
 #### Theoretical Physics:
 
-* Report 2 due by 5pm on Monday, 14 November 2022
-* Report 4 due by 5pm on Monday, 3 April 2023
+* Report 2 due by 5pm on Monday 13 November 2023
+* Report 4 due by 5pm on Tuesday 2 April 2024
 
 ---
 

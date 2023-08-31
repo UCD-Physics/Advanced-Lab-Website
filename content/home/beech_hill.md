@@ -37,7 +37,7 @@ hero_media = "location-on-map.svg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "beech_hill"
+  url = "info/beech_hill"
   label = "Information and Directions"
   icon_pack = "fas"
   icon = "route"

@@ -69,5 +69,5 @@ The key steps are, departing from UCD Science:
 * from here you should see directly opposite a fence with a gate, going through which brings you to the LMI Building.
 
 ## Walking route from UCD Science on Google Maps
-Here is a google map of the fastest walong route:
+Here is a [google map](https://www.google.com/maps/d/u/0/viewer?hl=en&mid=19lbVXGlURHNKaJtYDhzR38i3BB_ETWo&ll=53.31148168133552%2C-6.230624650000012&z=16) of the fastest walong route:
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=19lbVXGlURHNKaJtYDhzR38i3BB_ETWo&ehbc=2E312F" width="640" height="480"></iframe>

@@ -51,7 +51,7 @@ hero_media = "location-on-map.svg"
 #  
 [cta_alt]
   url = "https://www.google.com/maps/d/u/0/viewer?hl=en&mid=19lbVXGlURHNKaJtYDhzR38i3BB_ETWo&ll=53.31148168133552%2C-6.230624650000012&z=16"
-  label = "Direct link to Google Map"
+  label = "Direct link - opens in Google Maps"
 
 # Note. An optional note to show underneath the links.
 #[cta_note]

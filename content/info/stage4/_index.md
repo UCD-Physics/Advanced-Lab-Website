@@ -68,13 +68,13 @@ The hard deadlines for submission of laboratory reports are:
 
 * Report 2 due by 5pm on Tuesday 31 October 2023
 * Report 4 due by 5pm on Monday 22 January 2024
-* Report 6 due by 5pm on Monday 11 March 2023
+* Report 6 due by 5pm on Monday 11 March 2024
 
 
 #### PHYC 40330 and PHYC 40690 (5 credit, one-trimester)
-* Reports 1 & 2 due by 5pm on Monday 13 November 2022 <br>
+* Reports 1 & 2 due by 5pm on Monday 13 November 2023 <br>
 or
-* Reports 1 & 2 due by 5pm on Tuesday 2 April 2023
+* Reports 1 & 2 due by 5pm on Tuesday 2 April 2024
 
 ---
 

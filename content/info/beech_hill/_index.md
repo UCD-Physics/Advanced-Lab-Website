@@ -19,9 +19,9 @@ tags:
 
 
 
-The UCD School of Physics has relocated to the old Ericsson building
-in Beech Hill from September 2023 while the Science Phase III upgrade
-is in progress.
+The UCD School of Physics has relocated to the L.M.I. Building in
+Beech Hill from September 2023 while the Science Phase III upgrade is
+in progress. This building is just beyond the edge of campus, less than 200 m from UCD Nexus. 
 
 The Stage 3 and Stage 4 Advanced Laboratories are now located in Beech
 Hill on the ground and first floors of the B wing.
@@ -55,9 +55,11 @@ there is a faster way through campus and the grounds of a couple of
 office blocks.
 
 Using this route it is approximately a 1 km walk from the Science
-Complex in Belfied to the School of Physics Beech Hill.
+Complex in Belfied to the School of Physics Beech Hill, a distance
+comparable to that between some buildings on the Belfield campus.
 
-Unfortunately Google Maps does automatically determine (yet) the optimum route for walking.
+Unfortunately Google Maps does automatically determine (yet) the
+optimum route for walking.
 
 The key steps are, departing from UCD Science:
 * walk along the side of UCD Health Sciences facing the Student Centre

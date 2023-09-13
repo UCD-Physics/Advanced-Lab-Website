@@ -27,9 +27,10 @@ Guidelines for the preparation of reports in the Stage 3 and Stage 4
 Advanced Laboratories can be found here:
 [ReportGuidelines.pdf](https://physicslabs.ucd.ie/~apl/labs_master/docs/2021/Report_and_Plagiarism/ReportGuidelines.pdf)
 
-Guidelines for the Computational Physics Lab report can be found here:
-{{% staticref "files/Computational_Lab_Guidelines.pdf"
-%}}Computational Report Guidelines{{% /staticref %}}.
+## Computational Lab. Reports
+- {{% staticref "files/Computational_Lab_Guidelines.pdf" %}}Computational Lab Guidelines{{% /staticref %}}.
+- {{% staticref "files/AI_Guidelines_Adv_Labs.pdf" %}}Computational Lab AI Guidelines{{% /staticref %}}.
+
 
 
 
@@ -52,6 +53,7 @@ provided by the UCD Library
 At the start of Stage 3 all students in the Advanced Laboratories are required to read and sign the UCD
 School of Physics Advanced Laboratories [Plagiarism
 Document](https://physics.ucd.ie/~apl/labs_master/docs/2020/UCD_Physics_Labs_Plagiarism_statement.pdf)
+
 
 #### Additional Information
 

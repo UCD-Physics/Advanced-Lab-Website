@@ -31,4 +31,8 @@ familiarise themselves with and abide by the UCD policies on [Student Conduct an
 
 ## Dignity and Respect Support
 
-![Dignity and Respect](Dignity_and_Respect.pdf)
+
+![Report and Support](01_Report_and_Support_Slide.png)
+
+![Dignity and Respect Support Services](02_Dignity_and_Respect_Support_Service_Slide.png)
+

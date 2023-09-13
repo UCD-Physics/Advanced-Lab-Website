@@ -72,6 +72,7 @@ browser.  {{% /callout %}}
 
 ## Computational Lab. Reports
 - {{% staticref "files/Computational_Lab_Guidelines.pdf" %}}Computational Lab Guidelines{{% /staticref %}}.
+- {{% staticref "files/AI_Guidelines_Adv_Labs.pdf" %}}Computational Lab AI Guidelines{{% /staticref %}}.
 
 
 ## Interfacing

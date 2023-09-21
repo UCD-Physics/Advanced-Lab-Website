@@ -31,7 +31,7 @@ will be updated as the trimester progresses.
 |Welcome and Introduction to the Advanced Laboratories| Prof. Emma Sokell | Tuesday 12 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2023/S3Intro/Stage3_Lab_Intro_2324.pdf) |
 |Data Acquisition in Python| Assoc. Prof. John Quinn | Wednesday 13 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2023/S3Intro/Stage3_Python_2324.pdf)|
 |Data Analysis| Assoc. Prof. John Quinn | Wednesday 20 September| 14:00-15:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2023/S3Intro/Stage3_Data_Analysis_2324.pdf)|
-|Report Writing | Prof. Emma Sokell| Thursday 21 September | 14:00-14;50 | B106-BH | [[Manual.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2022/Report_and_Plagiarism/Manual.pdf), [[Report.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2022/Report_and_Plagiarism/Report.pdf)|
+|Report Writing | Prof. Emma Sokell| Thursday 21 September | 14:00-14;50 | B106-BH | [[Manual.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2023/ReportWriting/Manual.pdf), [[Report.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2023/ReportWriting/Report.pdf) [[ReportGuidelines.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2023/ReportWriting/ReportGuidelines.pdf) [[UCD_Physics_Labs_Plagiarism_statement.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2023/ReportWriting/UCD_Physics_Labs_Plagiarism_statement.pdf)| 
 
 ---
 

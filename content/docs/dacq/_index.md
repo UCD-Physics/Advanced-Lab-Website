@@ -32,7 +32,7 @@ tags:
 Introduction and Reference Documentaion for Computerised Data Acquisition in Python
 <!--more-->
 
-## Introdution
+## Introduction
 In the APL many experiments have computer-based data acquisition systems and
 some also require the experiment to be controlled by a computer. The main work
 horse is the National Instruments multi-function USB-6008 module, but a few

@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "UCD Phyics Advanced Laboratories"  # Website name
+title: "UCD Physics Advanced Laboratories"  # Website name
 baseurl: "https://physicslabs.ucd.ie/" # Website URL
 copyright: '&copy; UCD School of Physics, {year}' # Footer text, e.g. '© {year} Me'
 

@@ -136,7 +136,9 @@ The hard deadlines for submission of laboratory reports are:
 
 #### Physics and Physics with Astronomy and Space Science:
 
-* Report 2 due by 5pm on Tuesday 31 October 2023
+* ~~Reports 1 & 2 due by 5pm on Tuesday 31 October 2023~~
+* Report 1 due by 5pm on Tuesday 31 October 2023
+* Report 2 due by 5pm on Monday 6 November
 * Report 4 due by 5pm on Monday 22 January 2024
 * Report 6 due by 5pm on Monday 11 March 2024
 * Report 8 due by 5pm on Monday 08 April 2024

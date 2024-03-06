@@ -68,7 +68,7 @@ written examinations start.  {{% /callout %}}
 
 Trimester 1: Tuesday 12 September 2023 to Thursday 2 November 2024.
 
-Trimester 2: Tuesday 23 January 2024 to Thursday 14 March 2024.
+Trimester 2: Tuesday 23 January 2024 to Friday 15 March 2024.
 
 {{% callout note %}} The TP laboratories run during the first week of the two-week
 field-work break (11 - 15 March 2023) to enable all assessment to be complete before

@@ -17,7 +17,9 @@ tags:
  - featured
 ---
 
-
+{{% callout warning %}}
+From 10th April 2024 the pedestrian route to/from campus will be diverted. See below! 
+{{% /callout %}}
 
 The UCD School of Physics has relocated to the L.M.I. Building in
 Beech Hill from September 2023 while the Science Phase III upgrade is
@@ -46,7 +48,22 @@ The full address of the School of Physics in Beech Hill is:
 
 [Google map link to building](https://goo.gl/maps/YLSySLXPLkqseiSV9)
 
-## How to walk/cycle to Beech Hill from the main Belfield Campus
+
+
+## New pedestrian route to/from campus starting 10th April 2024
+
+From 10th April 2024 diversions are in place for the pedestrian route to/from campus due to construction work.
+
+The UCD-provded map is here while a google map is below.
+![10th April 2024 Pedestrian Diversion](10th_April_Ped_Diversion.png "10th April 2024 Pedestrian Diversion")
+
+### From 10th April 2024 Google Map
+Here is a [google map](https://www.google.com/maps/d/viewer?mid=1Iju40xt-XBntm09zrTh7U79kj-hkQ1Q&usp=sharing) of the diverted route:
+<iframe src="https://www.google.com/maps/d/embed?mid=1Iju40xt-XBntm09zrTh7U79kj-hkQ1Q&ehbc=2E312F" width="640" height="480"></iframe>
+
+
+
+## How to walk/cycle to Beech Hill from the main Belfield Campus (prior to 10th April 2024)
 
 The main entrance to the L.M.I. Building is from Beech Hill Rd.
 

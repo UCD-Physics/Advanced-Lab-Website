@@ -41,6 +41,7 @@ hero_media = "location-on-map.svg"
   label = "Information and Directions"
   icon_pack = "fas"
   icon = "route"
+
 #
 #[cta_note]
 #  url = "documentaion/"
@@ -51,7 +52,9 @@ hero_media = "location-on-map.svg"
 #  
 [cta_alt]
   url = "https://www.google.com/maps/d/u/0/viewer?hl=en&mid=19lbVXGlURHNKaJtYDhzR38i3BB_ETWo&ll=53.31148168133552%2C-6.230624650000012&z=16"
-  label = "Direct link - opens in Google Maps"
+  label = "Direct link to pedestrian route (up to 10 April 2023) - opens in Google Maps"
+
+
 
 # Note. An optional note to show underneath the links.
 #[cta_note]
@@ -59,4 +62,7 @@ hero_media = "location-on-map.svg"
 #label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-From September 2023 the UCD School of Physics has relocated to Beech Hill while the Science Phase III upgrade is in progress. 
+From September 2023 the UCD School of Physics has relocated to Beech Hill while the Science Phase III upgrade is in progress.
+
+Note: from 10th April 2024 a diversion on the walking route will be in place - more retails in link below:
+

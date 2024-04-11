@@ -51,8 +51,8 @@ hero_media = "location-on-map.svg"
 
 #  
 [cta_alt]
-  url = "https://www.google.com/maps/d/u/0/viewer?hl=en&mid=19lbVXGlURHNKaJtYDhzR38i3BB_ETWo&ll=53.31148168133552%2C-6.230624650000012&z=16"
-  label = "Direct link to pedestrian route (up to 10 April 2023) - opens in Google Maps"
+  url = "https://www.google.com/maps/d/edit?mid=1juxU5uMvcnp_m2muMTjDN0ZXxf_UOOM&usp=sharing"
+  label = "Direct link to pedestrian route (from 10 April 2024) - opens in Google Maps"
 
 
 
@@ -64,5 +64,5 @@ hero_media = "location-on-map.svg"
 
 From September 2023 the UCD School of Physics has relocated to Beech Hill while the Science Phase III upgrade is in progress.
 
-Note: from 10th April 2024 a diversion on the walking route will be in place - more retails in link below:
+Note: from 10th April 2024 a diversion on the walking route will be in place - more details in link below:
 

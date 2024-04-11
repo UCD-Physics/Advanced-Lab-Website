@@ -51,6 +51,20 @@ The full address of the School of Physics in Beech Hill is:
 
 
 
+
+## New pedestrian route from the main Belfield campus (from 10th April 2024)
+
+From 10th April 2024 diversions are in place for the pedestrian route to/from campus due to construction work.
+
+The UCD-provded map is here while a google map is below.
+![10th April 2024 Pedestrian Diversion](10th_April_Ped_Diversion.png "10th April 2024 Pedestrian Diversion")
+
+### Pedestrian route from UCD Science (from 10th April 2024) on Google Maps
+
+Here is a [google map](https://www.google.com/maps/d/edit?mid=1juxU5uMvcnp_m2muMTjDN0ZXxf_UOOM&usp=sharing) of the diverted route:
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1juxU5uMvcnp_m2muMTjDN0ZXxf_UOOM&ehbc=2E312F" width="640" height="480"></iframe>
+
 ## Pedestrian route to Beech Hill from the main Belfield Campus (to 10th April 2024)
 
 The main entrance to the L.M.I. Building is from Beech Hill Rd.
@@ -78,17 +92,5 @@ The key steps are, departing from UCD Science:
 ### Pedestrian route from UCD Science on Google Maps
 Here is a [google map](https://www.google.com/maps/d/u/0/viewer?hl=en&mid=19lbVXGlURHNKaJtYDhzR38i3BB_ETWo&ll=53.31148168133552%2C-6.230624650000012&z=16) of the fastest walking route:
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=19lbVXGlURHNKaJtYDhzR38i3BB_ETWo&ehbc=2E312F" width="640" height="480"></iframe>
-
-## New pedestrian route from the main Belfield campus (from 10th April 2024)
-
-From 10th April 2024 diversions are in place for the pedestrian route to/from campus due to construction work.
-
-The UCD-provded map is here while a google map is below.
-![10th April 2024 Pedestrian Diversion](10th_April_Ped_Diversion.png "10th April 2024 Pedestrian Diversion")
-
-### Pedestrian route from UCD Science (from 10th April 2024) on Google Maps
-
-Here is a [google map](https://www.google.com/maps/d/viewer?mid=1Iju40xt-XBntm09zrTh7U79kj-hkQ1Q&usp=sharing) of the diverted route:
-<iframe src="https://www.google.com/maps/d/embed?mid=1Iju40xt-XBntm09zrTh7U79kj-hkQ1Q&ehbc=2E312F" width="640" height="480"></iframe>
 
 

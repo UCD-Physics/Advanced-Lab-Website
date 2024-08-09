@@ -2,7 +2,7 @@
 title: Data Acquistion Hints and Tips
 
 toc: true
-type: book
+type: docs
 draft: false
 
 weight: 5

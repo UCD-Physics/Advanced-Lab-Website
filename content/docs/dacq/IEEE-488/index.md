@@ -3,7 +3,7 @@ title: IEEE-488
 linktitle: IEEE-488
 
 toc: true
-type: book
+type: docs
 weight: 40
 --- 
 

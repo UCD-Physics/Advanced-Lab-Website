@@ -9,7 +9,7 @@ summary: UCD Physics at Beech Hill
 weight: 30
 
 # Page metadata.
-type: book
+type: docs
 
 toc: true
 
@@ -30,25 +30,23 @@ Hill on the ground and first floors of the B wing.
 
 {{< toc hide_on="xl" >}}
 
-![L.M.I Building Beech Hill](Beech_Hill_LMI.jpeg "L.M.I. Building Beech Hill")
+![L.M.I Building Beech Hill](Beech_Hill_LMI.jpg "L.M.I. Building Beech Hill")
 
 
 
 ## Address
 
-The full address of the School of Physics in Beech Hill is:
+**The full address of the School of Physics in Beech Hill is**:
 
-> UCD School of Physics<br/>
-> L.M.I. Main Building<br/>
-> Beech Hill Road<br/>
-> Dublin 4 <br/>
-> D04 P7W1 
+  UCD School of Physics<br/>
+  L.M.I. Main Building<br/>
+  Beech Hill Road<br/>
+  Dublin 4 <br/>
+  D04 P7W1 
 
 ## Building location on Google Maps
 
 [Google map link to building](https://goo.gl/maps/YLSySLXPLkqseiSV9)
-
-
 
 
 
@@ -65,7 +63,7 @@ Here is a [google map](https://www.google.com/maps/d/edit?mid=1juxU5uMvcnp_m2muM
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1juxU5uMvcnp_m2muMTjDN0ZXxf_UOOM&ehbc=2E312F" width="640" height="480"></iframe>
 
-## Pedestrian route to Beech Hill from the main Belfield Campus (to 10th April 2024)
+## Pedestrian route to Beech Hill from the main Belfield Campus (prior to 10th April 2024)
 
 The main entrance to the L.M.I. Building is from Beech Hill Rd.
 

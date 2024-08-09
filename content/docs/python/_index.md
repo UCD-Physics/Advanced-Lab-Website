@@ -12,7 +12,7 @@ summary: Python for UCD Physics Advanced Laboratories
 # date: 2020-09-04
 
 # Academic page type (do not modify).
-type: book
+# type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 100
@@ -20,7 +20,7 @@ weight: 100
 # table of contents on right-hand side
 toc: true
 
-icon_pack: fab
+# icon_pack: fab
 icon: python
 
 tags:
@@ -60,3 +60,6 @@ The aim of this section of the web site is to provide a centralised place for UC
 reference material, advice, and hints and tips on using Python to solve problems and analyse and present
 data in their lecture and laboratory courses.
 
+## Topics
+
+{{< list_children >}}

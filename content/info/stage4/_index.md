@@ -8,7 +8,7 @@ icon_pack: fas
 
 # Page metadata.
 title: Stage 4
-type: book  # Do not modify.
+type: docs  # Do not modify.
 tags:
 - stage 4
 - featured
@@ -19,21 +19,21 @@ tags:
 ## Introductory Lecture
 
 The Stage 4 Advanced Laboratory Introductory Talk will be given by
-Assoc. Prof. Luis Leon-Vintro at 2pm on Tuesday 12 September 2023 in
+Assoc. Prof. Luis Leon-Vintro at 2pm on Tuesday 10 September 2024 in
 room B000-BH (Beech Hill). 
 
-Slides from the Introductory Lecture by Dr. Vintro are available [here](http://physicslabs.ucd.ie/~apl/labs_master/docs/2023/S4Intro/Stage4_Introduction_2324.pdf).
+Slides from the Introductory Lecture by Assoc. Prof. Vintro are available [here](http://physicslabs.ucd.ie/~apl/labs_master/docs/2024/S4Intro/Stage4_Introduction_2425.pdf).
 
 ---
 
 ## Report-Writing Refresher Session
 
 Prof. Emma Sokell will conduct a report-writing refresher session on
-Thursday 21 September at 4pm in room B000-BH (Beech Hill). 
+Thursday 19 September at 4pm in room B000-BH (Beech Hill). 
 
 ---
 
-## Advanced Laboratory Hours and Dates 2023-2024
+## Advanced Laboratory Hours and Dates 2024-2025
 
 {{% callout note %}} All students are required to sign in and out of the lab
 using the Google form accessed via the QR code posted in the labs.
@@ -49,13 +49,13 @@ you must inform a staff member.
 The dates for the laboratories are:
 
 #### PHYC 40600 and PHYC 40970 (15 credit, two-trimester)
-* Trimester 1:  Tuesday 12 September to Thursday 30 November 2023
-* Trimester 2:  Tuesday 23 January to Thursday 29 February 2024
+* Trimester 1:  Tuesday 10 September to Thursday 28 November 2024
+* Trimester 2:  Tuesday 21 January to Thursday 27 February 2025
 
 #### PHYC 40330 and PHYC 40690 (5 credit, one-trimester)
-* Trimester 1:  Tuesday 12 September to Thursday 30 November 2023<br>
+* Trimester 1:  Tuesday 10 September to Thursday 28 November 2024<br>
 or
-* Trimester 2: Tuesday 23 January to Friday 15 March 2024
+* Trimester 2: Tuesday 21 January to Friday 14 March 2025
 
 
 ---
@@ -66,15 +66,15 @@ The hard deadlines for submission of laboratory reports are:
 
 #### PHYC 40600 and PHYC 40970 (15 credit, two-trimester)
 
-* Report 2 due by 5pm on Tuesday 31 October 2023
-* Report 4 due by 5pm on Monday 22 January 2024
-* Report 6 due by 5pm on Monday 11 March 2024
+* Report 2 due by 5pm on Tuesday 29 October 2024
+* Report 4 due by 5pm on Monday 20 January 2025
+* Report 6 due by 5pm on Monday 10 March 2025
 
 
 #### PHYC 40330 and PHYC 40690 (5 credit, one-trimester)
-* Reports 1 & 2 due by 5pm on Monday 13 November 2023 <br>
+* Report 2 due by 5pm on Monday 11 November 2024 <br>
 or
-* Reports 1 & 2 due by 5pm on Tuesday 2 April 2024
+* Report 2 due by 5pm on Monday 31 March 2025
 
 ---
 

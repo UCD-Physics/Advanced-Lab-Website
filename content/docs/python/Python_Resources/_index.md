@@ -8,7 +8,9 @@ icon: info-circle
 icon_pack: fas
 ---
 
-The documentation here is under development and will be updated frequently.
+
+
+Python documentation, continually under development...
 
  {{< toc hide_on="xl" >}}
 

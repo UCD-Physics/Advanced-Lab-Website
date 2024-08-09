@@ -3,7 +3,7 @@ title: RBD 9103 Picoammeter
 #linktitle: RBD9103
 
 toc: true
-type: book
+type: docs
 weight: 50
 --- 
 

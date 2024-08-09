@@ -12,7 +12,7 @@ summary: Data Acquisition in Python in the UCD Physics Advanced Laboratories
 # date: 2020-09-05
 
 # Academic page type (do not modify).
-type: book
+type: docs
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 200
@@ -42,4 +42,4 @@ the data acquisition hardware through Python.
 
 ## Topics
 
-{{< list_children >}} 
+{{< list_children >}}

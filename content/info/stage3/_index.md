@@ -3,19 +3,18 @@ title: Stage 3
 
 
 # Title, summary, and page position.
-#linktitle: Stage 3
+# linktitle: Stage 3
 
 summary: Information for Stage 3 APL
 weight: 30
 
 # Page metadata.
-type: book
+type: docs
 
 toc: true
 
-tags:
- - Stage 3
- - featured
+featured: true
+
 ---
 
 Please note: some of the links to slides etc. are not all live yet and
@@ -23,19 +22,19 @@ will be updated as the trimester progresses.
 
 {{< toc hide_on="xl" >}}
 
-## Introductory Talks 2023-2024
+## Introductory Talks 2024-2025
 
 
 | Topic | Presenter | Date | Time | Location | slides |
 |-------|-----------|------|------|----------|--------|
-|Welcome and Introduction to the Advanced Laboratories| Prof. Emma Sokell | Tuesday 12 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2023/S3Intro/Stage3_Lab_Intro_2324.pdf) |
-|Data Acquisition in Python| Assoc. Prof. John Quinn | Wednesday 13 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2023/S3Intro/Stage3_Python_2324.pdf)|
-|Data Analysis| Assoc. Prof. John Quinn | Wednesday 20 September| 14:00-15:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2023/S3Intro/Stage3_Data_Analysis_2324.pdf)|
-|Report Writing | Prof. Emma Sokell| Thursday 21 September | 14:00-14;50 | B106-BH | [[Manual.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2023/ReportWriting/Manual.pdf), [[Report.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2023/ReportWriting/Report.pdf) [[ReportGuidelines.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2023/ReportWriting/ReportGuidelines.pdf) [[UCD_Physics_Labs_Plagiarism_statement.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2023/ReportWriting/UCD_Physics_Labs_Plagiarism_statement.pdf)| 
+|Welcome and Introduction to the Advanced Laboratories| Prof. Emma Sokell | Tuesday 10 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2024/S3Intro/Stage3_Lab_Intro_2425.pdf) |
+|Data Acquisition in Python| Assoc. Prof. John Quinn | Wednesday 11 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2024/S3Intro/Stage3_Python_2425.pdf)|
+|Data Analysis| Assoc. Prof. John Quinn | Wednesday 18 September| 14:00-15:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2024/S3Intro/Stage3_Data_Analysis_2425.pdf)|
+|Report Writing | Prof. Emma Sokell| Thursday 19 September | 14:00-14;50 | B106-BH | [[Manual.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/Manual.pdf), [[Report.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/Report.pdf) [[ReportGuidelines.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/ReportGuidelines.pdf) [[UCD_Physics_Labs_Plagiarism_statement.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/UCD_Physics_Labs_Plagiarism_statement.pdf)| 
 
 ---
 
-## Advanced Laboratory Hours and Dates 2023-2024
+## Advanced Laboratory Hours and Dates 2024-2025
 
 {{% callout note %}} All students are required to sign in and out of the lab
 using the Google form accessed via the QR code posted in the labs.
@@ -51,27 +50,27 @@ accessed on Tuesday, Wednesday and Thursday mornings from 11 am but
 you must inform a staff member and sign in.
 
 
-#### Physics and Physics with Astronomy and Space Science:
+### Physics and Physics with Astronomy and Space Science:
 
-Trimester 1: Tuesday 12 September 2023 to Thursday 30 November 2023.
+Trimester 1: Tuesday 10 September 2023 to Thursday 28 November 2024.
 
-Trimester 2: Tuesday, 23 January 2024 to Thursday 28 March 2024.
+Trimester 2: Tuesday, 21 January 2024 to Thursday 27 March 2024.
 
 {{% callout note %}} The Physics and PASS laboratories run during the two-week
-field-work break (11 - 22 March 2023) and close four weeks before the
+field-work break (10 - 21 March 2025) and close four weeks before the
 end of the trimester to enable all assessment to be complete before
 written examinations start.  {{% /callout %}}
 
 
 
-#### Theoretical Physics:
+### Theoretical Physics:
 
-Trimester 1: Tuesday 12 September 2023 to Thursday 2 November 2024.
+Trimester 1: Tuesday 10 September 2024 to Thursday 31 October 2024.
 
-Trimester 2: Tuesday 23 January 2024 to Friday 15 March 2024.
+Trimester 2: Tuesday 21 January 2025 to Friday 14 March 2025.
 
 {{% callout note %}} The TP laboratories run during the first week of the two-week
-field-work break (11 - 15 March 2023) to enable all assessment to be complete before
+field-work break (10 - 14 March 2025) to enable all assessment to be complete before
 written examinations start.  {{% /callout %}}
 
 ---
@@ -136,18 +135,16 @@ The hard deadlines for submission of laboratory reports are:
 
 #### Physics and Physics with Astronomy and Space Science:
 
-* ~~Reports 1 & 2 due by 5pm on Tuesday 31 October 2023~~
-* Report 1 due by 5pm on Tuesday 31 October 2023
-* Report 2 due by 5pm on Monday 6 November
-* Report 4 due by 5pm on Monday 22 January 2024
-* Report 6 due by 5pm on Monday 11 March 2024
-* Report 8 due by 5pm on Monday 08 April 2024
+* Report 2 due by 5pm on Tuesday 29 October 2024
+* Report 4 due by 5pm on Monday 20 January 2025
+* Report 6 due by 5pm on Monday 10 March 2025
+* Report 8 due by 5pm on Monday 07 April 2025
 
 
 #### Theoretical Physics:
 
-* Report 2 due by 5pm on Monday 13 November 2023
-* Report 4 due by 5pm on Tuesday 2 April 2024
+* Report 2 due by 5pm on Monday 11 November 2024
+* Report 4 due by 5pm on Monday 31 March 2025
 
 ---
 

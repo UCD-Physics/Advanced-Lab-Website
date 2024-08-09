@@ -3,7 +3,7 @@ title: Data Acquistion General Concepts
 linktitle: DACQ General Concepts
 
 toc: true
-type: book
+type: docs
 draft: false
 
 weight: 10

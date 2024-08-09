@@ -3,21 +3,25 @@ title: Get Python
 #linktitle: Download Python
 date: 2020-09-04
 weight: 10
-type: book
+type: docs
 icon: download
 icon_pack: fas
 ---
 
-## Python 3
+## Python distribution and version
+Information on the Python distribution and version to download...
+
+### Python 3
 
 Python 3 is the [officially-supported](https://www.python.org) version
-and is the one that is used in the Advanced Laboratories.  There are
-different releases of Python 3 (e.g. 3.8) and it is recommened to use
+and is the one that is used in the Advanced Laboratories. 
+
+There are different releases of Python 3 (e.g. 3.8) and it is recommened to use
 the most recent release, but in particular a release of 3.6 or later.
 
 <br/>
 
-## Anaconda Python Distribution
+### Anaconda Python Distribution
 
 {{< figure library="true" src="anaconda.png" title="" lightbox="true" width="200">}}
 
@@ -31,9 +35,8 @@ Linux, Windows and Mac OS X.
 [Download Anaconda here](https://www.anaconda.com/products/individual)
 {{% /callout %}}
 
-<br/>
 
-## Do not use Python 2!
+### Do not use Python 2!
 
 Python 2 was officially [sunset](https://www.python.org/doc/sunset-python-2/) in early 2020. 
 

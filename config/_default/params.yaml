@@ -1,119 +1,87 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
-theme: minimal
-day_night: true
-font: 
-font_size: m
+appearance:
+  mode: system
+  color: blue
 
 # SEO
-
-site_type: Organization
-local_business_type: ''
-org_name: 'UCD School of Physics'
-description: ''
-twitter: ''
-
-# Contact (edit or remove options as required)
-
-email: john.quinn@ucd.ue
-#appointment_url: 'https://calendly.com'
-#contact_links:
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on the forum
-#    link: 'https://github.com/wowchemy/wowchemy-hugo-modules/discussions'
-
+marketing:
+  seo:
+    site_type: Education
+    local_business_type: ''
+    org_name: 'University College Dublin'
+    description: 'UCD School of Physics'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    align: "center"
+    fixed_to_top: true
+    logo:
+      text: "UCD APL"
+      # Logo filename in `assets/media/` folder
+      filename: "logo.png"
+    button:
+      enable: false
+      text: "Get Started"
+      url: ""
+    show_search: true
+    show_theme_chooser: true
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} UCD School of Physics. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: true
+      share_alike: true
+      allow_commercial: false
 
 # Localization
-
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
 
 # Site features
+features:
+  math:
+    enable: true
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
+    content_dir: 'starters/documentation/content'
+    branch: 'main'
+  feedback:
+    responses:
+      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new).'
+      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
+  comment:
+    provider: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
 
-highlight: true
-highlight_languages: ["python", "c", "c++"]
-math: true
-diagram: true
-privacy_pack: false
-edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: false
-section_pager: false
-docs_section_pager: false
-sharing: true
-copyright_license:
-  enable: true
-  allow_derivatives: true
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  local_backend: false
-icon:
-  pack:
-    ai: true
+    

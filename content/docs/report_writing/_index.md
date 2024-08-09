@@ -28,10 +28,9 @@ Advanced Laboratories can be found here:
 [ReportGuidelines.pdf](https://physicslabs.ucd.ie/~apl/labs_master/docs/2021/Report_and_Plagiarism/ReportGuidelines.pdf)
 
 ## Computational Lab. Reports
-- {{% staticref "files/Computational_Lab_Guidelines.pdf" %}}Computational Lab Guidelines{{% /staticref %}}.
-- {{% staticref "files/AI_Guidelines_Adv_Labs.pdf" %}}Computational Lab AI Guidelines{{% /staticref %}}.
 
-
+{{% staticref "files/Computational_Lab_Guidelines.pdf" %}}Download Computational Lab Guidelines{{% /staticref %}}
+{{% staticref "files/AI_Guidelines_Adv_Labs.pdf" %}}Download Computational Lab AI Guidelines{{% /staticref %}}
 
 
 ## Plagiarism

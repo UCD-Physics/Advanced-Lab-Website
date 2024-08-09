@@ -1,6 +1,8 @@
 ---
 title: ℹ️  Information
-type: page
+type: docs
+
+show_breadcrumb: true
 
 header:
   caption: ""
@@ -8,4 +10,6 @@ header:
 ---
 
 Here you will find links to various additional documents and information for the APL.
+
+{{< list_children >}} 
 

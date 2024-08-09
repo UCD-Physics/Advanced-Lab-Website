@@ -11,6 +11,9 @@ icon_pack: fas
 toc: true
 ---
 
+It is important to write easy-to-understand and easy-to-maintain code...
+
+
  {{< toc hide_on="xl" >}}
 
 ## Introduction
@@ -100,6 +103,5 @@ include internet resources and forums such as Stackoverflow and will
 flag code that is viewed as highly similar.
 
 
-{{< list_children >}}
 
 

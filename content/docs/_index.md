@@ -2,6 +2,9 @@
 title: 📚 Documentation
 type: page
 
+tags:
+- featured
+
 header:
   caption: ""
   image: ""
@@ -9,3 +12,4 @@ header:
 
 Documentation is available on the following topics:
 
+{{< list_children >}}

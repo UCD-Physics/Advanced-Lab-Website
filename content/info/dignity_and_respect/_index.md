@@ -7,20 +7,18 @@ date: 2022-09-14
 #linktitle: Stage 3
 
 summary: UCD Code of Conduct and Dignity and Respect support 
-weight: 5
+weight: 100
 
 # Page metadata.
-type: book
+type: docs
 
-toc: true
+toc: false
 
 tags:
  - featured
 ---
 
-UCD Code of Conduct and Dignity and Respect
 
-{{< toc hide_on="xl" >}}
 
 ## Code of Conduct
 

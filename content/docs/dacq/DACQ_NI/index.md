@@ -3,7 +3,7 @@ title: National Instruments USB-6008/6009
 linktitle: NI USB-6008/6009
 
 toc: true
-type: book
+type: docs
 weight: 20
 --- 
 

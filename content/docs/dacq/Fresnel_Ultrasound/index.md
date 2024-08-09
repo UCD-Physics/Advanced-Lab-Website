@@ -3,7 +3,7 @@ title: Fresnel Diffraction using Ultrasound
 #linktitle: Fresnel
 
 toc: true
-type: book
+type: docs
 weight: 60
 --- 
 

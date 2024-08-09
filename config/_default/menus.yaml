@@ -1,66 +1,78 @@
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+
 main:
- - name: "Information"
-   url:  'info/'
-   identifier: 'info'
-   weight: 10
+  - name: Home
+    url: /
+    weight: 10
 
- - name: "Beech Hill"
-   url:  'info/beech_hill/'
-   parent: info
-   weight: 11
+  - name: Information
+    url: info/
+    weight: 10
 
+  - name: "Beech Hill"
+    url:  'info/beech_hill/'
+    parent: Information
+    weight: 10
 
+  - name: "Dignity and Respect"
+    url:  'info/dignity_and_respect'
+    weight: 20
+    parent: Information
 
- - name: "Dignity and Respect"
-   url:  'info/dignity_and_respect'
-   weight: 12
-   parent: info
+  - name: "Stage 3"
+    url:  'info/stage3'
+    weight: 30
+    parent: Information
 
- - name: "COVID-19"
-   url:  'info/covid'
-   weight: 15
-   parent: info
+  - name: "Stage 4"
+    url:  'info/stage4'
+    weight: 40
+    parent: Information
 
- - name: "Stage 3"
-   url:  'info/stage3'
-   weight: 20
-   parent: info
+  - name: Documentation
+    url: docs/
+    weight: 20
+    identifier: docs
 
- - name: "Stage 4"
-   url:  'info/stage4'
-   weight: 30
-   parent: info
+  - name: "Python"
+    url: "docs/python"
+    weight:  10
+    parent: docs
+    identifier: python
 
- - name: "Documentation"
-   url: "docs/"
-   weight: 20
-   identifier: docs
+  - name: "Python HowTos"
+    url: "docs/python/python_howtos"
+    weight:  20
+    parent: docs
 
- - name: "Python"
-   url: "docs/python"
-   weight:  10
-   parent: docs
-   identifier: python
+  - name: "Data Acquisition"
+    url: "docs/dacq"
+    weight: 30
+    parent: docs
 
- - name: "Python HowTos"
-   url: "docs/python/python_howtos"
-   weight:  15
-   parent: docs
+  - name: "Data Analysis"
+    url: "docs/data_analysis"
+    weight: 40
+    parent: docs
 
- - name: "Data Acquisition"
-   url: "docs/dacq"
-   weight: 20
-   parent: docs
-
- - name: "Data Analysis"
-   url: "docs/data_analysis"
-   weight: 30
-   parent: docs
-
- - name: "Report Writing"
-   url: "docs/report_writing"
-   weight: 40
-   parent: docs
+  - name: "Report Writing"
+    url: "docs/report_writing"
+    weight: 50
+    parent: docs
 
 
-
+#sidebar:
+#  - identifier: more
+#    name: Still need help?
+#    params:
+#      type: separator
+#    weight: 1
+#  - identifier: community
+#    name: "Community"
+#    pageRef: "/community"
+#    weight: 2
+#  - identifier: hugoDocs
+#    name: "Hugo Docs ↗"
+#    url: "https://docs.hugoblox.com"
+#    weight: 3

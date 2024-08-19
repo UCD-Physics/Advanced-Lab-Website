@@ -14,23 +14,9 @@ Learn how to communicate with the RBD 9103 USB Picoammter using serial communica
 
 {{< figure src="RBD9103.png" title="Figure: RBD 9103 USB Picoammater" lightbox="true" width="600" >}}
 
-## Introduction
-
-The [RBD 9103](https://rbdinstruments.com/products/picoammeter.html)
-is a USB Picoammeter that you communicate with using a serial
-port over which to send text commands and receive responses.
-
-A Jupyter Notebook which documents the interface and provides example code is provided
-[here](https://github.com/JohnQuinn1/UCD_Physics_Labs_Python/blob/master/RBD9103_Picoammater.ipynb)
-and is repeated below:
-
-<hr/>
-
-
-
 # Communicating with the RBD 9103 Picoammeter in Python
 
-#### Updated -  28/09/2021
+Updated -  16/08/2024
 
 ## Introduction
 
@@ -46,7 +32,26 @@ https://www.rbdinstruments.com/products/files/downloads/9103//9103-picoammeter-u
 
 Once the device driver has been installed the picoammeter can be accessed as a serial device on the PC by reading/writing text commands, or by using the *Actual* software that comes with it. The *Actuel* software includes a console that can be used to write and read commands. 
 
-Alternatively I used the *Termite* (http://www.compuphase.com/software_termite.htm) serial communication software for testing. To use in termite or Python we must first find out what COM port it is on. Do this by looking for *FT232R USB UART* in Windows (7) *Devices and Printers*, double click on it and select *Hardware* and we see the COM port (COM3 when I tested this one). If you are having problems I recommend this as a fallback to see what the device is doing.
+Alternatively I used the *Termite* (http://www.compuphase.com/software_termite.htm) serial communication software for testing. 
+
+## Which com port?
+
+To use in termite or Python we must first find out what COM port it is on. Do this by looking for *FT232R USB UART* in Windows (7) *Devices and Printers*, double click on it and select *Hardware* and we see the COM port (COM3 when I tested this one). If you are having problems I recommend this as a fallback to see what the device is doing. 
+
+Alternatively: use pyserial (see [Python](#Python) section below):
+
+PySerial has a useful command which lists active com ports (from Python):
+
+```python
+from serial.tools import list_ports
+for p in list_ports.comports():
+    print(p)
+```
+which will produce output like:
+```
+COM1 - Communications Port (COM1)
+COM3 - USB Serial Device (COM3)
+```
 
 ## COM Port Configuration 
 
@@ -78,16 +83,18 @@ Please note you must read the response each time, otherwise when you request dat
 
 ## The Filter
 
-Note that the value for the filter does not have a default value when the device is switched on - it uses whatever values is stored in its eeprom and you will only know what value it is if you read teh device configuration. Therefore, ** please set the filter value explicitly in your code **. Larger values give less-noisy readings but it takes longer for the device to stabilise. You should try different filter values to see which work best for reducing noise in your data.
+Note that the value for the filter does not have a default value when the device is switched on - it uses whatever values is stored in its eeprom and you will only know what value it is if you read the device configuration. Therefore, **please set the filter value explicitly in your code**. Larger values give less-noisy readings but it takes longer for the device to stabilise. You should try different filter values to see which work best for reducing noise in your data.
 
-## Using Python
+## Python
 
 ### PySerial
 
 To communicate with a serial device in Python we will use [PySerial](https://pythonhosted.org/pyserial/). **PySerial is installed on all lab computers!** However, if not installed, on Anaconda Python install with with 
 
     conda install pyserial 
-    
+
+### Connecting to the Picoammeter
+
 The code below shows how to import pyserial and set up a connection. It is essential to set the timeout as well as otherwise if you try to read the device and it has no data it will block indefinitely.
 
 
@@ -124,7 +131,7 @@ Note: if the connection is open and you try to open it again an error will occur
 
 Arrays of bytes are sent to and read from the device. Thus strings must be converted to bytes and vice-versa. 
 
-Note: ** It is essential to end every write to the device with a newline ('\n')**
+Note: ** It is essential to end every write to the device with a newline (`'\n'`)**
 
 #### To convert a string to bytes use:
 
@@ -156,11 +163,11 @@ After each write use <code>readline()</code> or <code>readlines()</code> to read
 
 Notes:
 
-* <code>readline()</code> Read a line which is terminated with end-of-line (eol) character ('\n' by default) or until timeout.
+* `readline()` Read a line which is terminated with end-of-line (eol) character (`'\n'` by default) or until timeout.
 
-* <code>readlines()</code> Read a list of lines, until timeout. Note that this function only returns on a timeout.
+* `readlines()` Read a list of lines, until timeout. Note that this function only returns on a timeout.
 
-The byte arrays/strings returned are terminated by carriage returns ('\r') and newlines ('\n')
+The byte arrays/strings returned are terminated by carriage returns (`'\r'`) and newlines (`'\n'`)
 
 ### Examples:
 
@@ -226,16 +233,17 @@ As can be seen above, the byte arrays returned have a trailing '\r\n' (carriage 
 
 ### Reading current samples.
 
-When the <code>'&S'</code> is sent the device returns a byte array that contains information (comma separated) on the status, range, the current and the scale. This byte array will have to be converted to a string, have the trailing '\r' and '\n' removed, split and then converted into an appropriate numberic value.
+When the `'&S'` is sent the device returns a byte array that contains information (comma separated) on the status, range, the current and the scale. This byte array will have to be converted to a string, have the trailing `'\r'` and `'\n'` removed, split and then converted into an appropriate numberic value.
 
 The allowed ranges are 'nA, 'uA', 'mA', so the range will have to be checked and the numeric value multiplied by the appropriate scale factor.
 
-The first part of the returned command is usually '&S=' but unstable values are reported with an asterix, e,g.
+The first part of the returned command is usually `'&S='` but unstable values are reported with an asterix, e,g.
 
     &S*,Range=002mA,+0.0009572,mA 
+    
 The manual states that after changing the range it may take a few readings before the readings are stable and accurate.
 
-Also, over-range status is indicated by a '>' and under-range status by a '<' after the '&S', so **one should always check the first character after the '&S' to determine the trustworthyness of the results**, and re-read or change the scale (if not on autoranging) and re-read. **If the scale is giving under-range or over-range status then the results cannot be trusted** - in fact the (low and incorrect) current readings given when the picoammeter is in an over-range state looks exactly like the plateauing expected from saturation in the nuvistor triode experiment.  
+Also, over-range status is indicated by a `'>'` and under-range status by a `'<'` after the `'&S'`, so **one should always check the first character after the '&S' to determine the trustworthyness of the results**, and re-read or change the scale (if not on autoranging) and re-read. **If the scale is giving under-range or over-range status then the results cannot be trusted** - in fact the (low and incorrect) current readings given when the picoammeter is in an over-range state looks exactly like the plateauing expected from saturation in the nuvistor triode experiment.  
 
 Also, note that the manual says that the stated accuracy is achieved after 1 hour warm up.
 
@@ -270,9 +278,25 @@ It is very straightforward in Python to convert the above into a numeric value f
 
 ## Troubleshooting & Notes
 
-* Remember to end commands sent to the device with a '\n' and to read the response string.
-* If the device is giving strange readings (e.g. you get a response (e.g. &S=,...) and you did not expect this response then the device may be in sampling mode. The suggested procedure is to flush the input, set the sampling interval to 0000 and then check the response string. If this fixes things then send '&Z' to the device to store the current configuration as device power-on default (i.e. in the eprom).
-* In one place in the user manual it says that '&D' is a factory reset. It is not! It simply reloads the default device settings as for power on (i.e. from its eprom)  
-* '&PXXXXXXXXXX' sets the 10-character device id.
+* Remember to end commands sent to the device with a `'\n'` and to read the response string.
+* If the device is giving strange readings (e.g. you get a response (e.g. `&S=,...`) and you did not expect this response then the device may be in sampling mode. The suggested procedure is to flush the input, set the sampling interval to `0000` and then check the response string. If this fixes things then send `&Z` to the device to store the current configuration as device power-on default (i.e. in the eprom).
+* In one place in the user manual it says that `&D` is a factory reset. It is not! It simply reloads the default device settings as for power on (i.e. from its eprom)  
+* `&PXXXXXXXXXX` sets the 10-character device id.
+
+### Jumps in the currents after changing scales...
+
+If there are steps/jumps in the picoammeter currents after chagnign scales it is probably due to the zero offset calibratin being incorrect.
+
+The recommended procedure to correct is (thanks Joe Branson!):
+- Close any instances of python interfacing with the picoammeter,
+- Open Actuel software
+- If the picoammeter doesn't register, switch it off and on again and wait for Actuel to recognise it.
+- Open the console using the labelled button in the software.
+- Type `C1` in the provided box and send the command. Wait for the process to complete (~30 sec)
+- Type `C0` in the provided box and send the command. Wait for the process to complete (~30 sec)
+- Close actuel software and reopen your python script.
 
 
+```python
+
+```

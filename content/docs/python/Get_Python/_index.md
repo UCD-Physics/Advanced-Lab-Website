@@ -16,24 +16,45 @@ Information on the Python distribution and version to download...
 Python 3 is the [officially-supported](https://www.python.org) version
 and is the one that is used in the Advanced Laboratories. 
 
-There are different releases of Python 3 (e.g. 3.8) and it is recommened to use
-the most recent release, but in particular a release of 3.6 or later.
+There are different releases of Python 3 (e.g. 3.12) and it is
+recommened to use the most recent release, but in particular a release
+of 3.6 or later.
 
 <br/>
 
-### Anaconda Python Distribution
+### Python Distribution
 
-{{< figure library="true" src="anaconda.png" title="" lightbox="true" width="200">}}
+#### Conda-forge
 
-[Anaconda Python](https://anaconda.org) is the preferred way to install Python. The distribution includes
-[hundreds of packages](https://docs.anaconda.com/anaconda/packages/pkg-docs/) including essential scientific
-libraries including [Scipy](https://www.scipy.org), [Numpy](https://numpy.org),
-[Matplotlib](https://matplotlib.org), [AstroPy](https://www.astropy.org) and more. It is available for
-Linux, Windows and Mac OS X.
+<center>
+<a href="https://conda-forge.org">
+<img src="conda-forge.png" alt="conda-forge logo" width="200"/></a>
+</center>
 
-{{% callout note %}}
-[Download Anaconda here](https://www.anaconda.com/products/individual)
-{{% /callout %}}
+The recommended way to install Python and associated packages such as
+[Scipy](https://www.scipy.org), [Numpy](https://numpy.org),
+[Matplotlib](https://matplotlib.org), [AstroPy](https://www.astropy.org) etc.
+is from [Conda-forge](https://conda-forge.org).
+
+Conda-forge provides Python packages for a range of operating systems including Windows, Linux and Mac OS.
+
+The Conda-forge installer is [miniforge](https://github.com/conda-forge/miniforge). There are various guides to miniforge online, such as
+[here](https://kirenz.github.io/codelabs/codelabs/miniforge-setup/#0)
+which guide you through the process.
+
+
+#### Anaconda Python Distribution
+
+<center>
+<a href="https://anaconda.org">
+<img src="anaconda.png" alt="anaconda logo" width="200"/></a>
+</center>
+
+Alternatively [Anaconda Python Distribution](https://anaconda.org) can
+be installed. Note that this is from a commercial company which now
+requires an email address to obtain the download link and the
+distribution includes many additional packages by Anaconda which
+require an Anaconda account to use.
 
 
 ### Do not use Python 2!

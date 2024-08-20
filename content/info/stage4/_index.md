@@ -29,7 +29,7 @@ Slides from the Introductory Lecture by Assoc. Prof. Vintro are available [here]
 ## Report-Writing Refresher Session
 
 Prof. Emma Sokell will conduct a report-writing refresher session on
-Thursday 19 September at 4pm in room B000-BH (Beech Hill). 
+Thursday 19 September at 3pm in room B000-BH (Beech Hill). 
 
 ---
 

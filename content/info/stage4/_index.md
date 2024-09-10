@@ -53,7 +53,7 @@ The dates for the laboratories are:
 * Trimester 2:  Tuesday 21 January to Thursday 27 February 2025
 
 #### PHYC 40330 and PHYC 40690 (5 credit, one-trimester)
-* Trimester 1:  Tuesday 10 September to Thursday 28 November 2024<br>
+* Trimester 1:  Tuesday 10 September to Thursday 31 October 2024<br>
 or
 * Trimester 2: Tuesday 21 January to Friday 14 March 2025
 

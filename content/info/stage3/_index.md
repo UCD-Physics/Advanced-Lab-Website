@@ -29,9 +29,9 @@ will be updated as the trimester progresses.
 |-------|-----------|------|------|----------|--------|
 |Welcome and Introduction to the Advanced Laboratories| Prof. Emma Sokell | Tuesday 10 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2024/S3Intro/Stage3_Lab_Intro_2425.pdf) |
 |Data Acquisition in Python| Prof. John Quinn | Wednesday 11 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2024/S3Intro/Stage3_Python_2425.pdf)|
-|Data Analysis| Prof. John Quinn | Wednesday 18 September| 14:00-15:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2024/S3Intro/Stage3_Data_Analysis_2425.pdf)|
-|Report Writing | Prof. Emma Sokell| Thursday 19 September | 14:00-14;50 | B106-BH | [[Manual.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/Manual.pdf), [[Report.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/Report.pdf) [[ReportGuidelines.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/ReportGuidelines.pdf) [[UCD_Physics_Labs_Plagiarism_statement.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/UCD_Physics_Labs_Plagiarism_statement.pdf)| 
-
+|Data Analysis I| Prof. John Quinn | Wednesday 18 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2024/S3Intro/Stage3_Data_Analysis_2425.pdf)|
+|Report Writing | Prof. Emma Sokell| Thursday 19 September | 14:00-14:50 | B106-BH | [[Manual.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/Manual.pdf), [[Report.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/Report.pdf) [[ReportGuidelines.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/ReportGuidelines.pdf) [[UCD_Physics_Labs_Plagiarism_statement.pdf]](https://veritas.ucd.ie/~apl/labs_master/docs/2024/ReportWriting/UCD_Physics_Labs_Plagiarism_statement.pdf)| 
+|Data Analysis II| Prof. John Quinn | Wednesday 25 September| 14:00-14:50 | B106-BH | [[Slides]](https://physicslabs.ucd.ie/~apl/labs_master/docs/2024/S3Intro/Stage3_Data_Analysis_2425.pdf)|
 ---
 
 ## Advanced Laboratory Hours and Dates 2024-2025

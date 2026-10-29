@@ -175,7 +175,7 @@ which returns a list of the channels that have been added.
 
 #### To read out a single voltage from a single channel
 
-To reaout the voltage once when only a single channel is connected use the
+To read out the voltage once when only a single channel is connected use the
 ADC method:
 ```python
 myADC.readVoltage()

@@ -144,12 +144,12 @@ first three steps are the same in either case:
 
 The ADC method:
 ```python
-myADC.addChannels()
+ADC.addChannels()
 ```
 takes four arguments, three of which are optional
 and default to the values shown:
 ```python
-myADC.addChannels(newChannels, 
+ADC.addChannels(newChannels, 
                 ADC_mode="DAQmx_Val_Diff",
 		minRange=-10.0,
 		maxRange=10.0 )
@@ -166,7 +166,7 @@ sure to specify the correct range!
 
 Note: there is also an ADC method
 ```python
-myADC.getActiveChannels()
+ADC.getActiveChannels()
 ```
 which returns a list of the channels that have been added.
 
@@ -175,10 +175,10 @@ which returns a list of the channels that have been added.
 
 #### To read out a single voltage from a single channel
 
-To read out the voltage once when only a single channel is connected use the
+To reaout the voltage once when only a single channel is connected use the
 ADC method:
 ```python
-myADC.readVoltage()
+ADC.readVoltage()
 ```
 which returns the voltage as a floating-point number.
 
@@ -205,7 +205,7 @@ where the total number of samples per channel and the sample rate can be specifi
 (both default to 1 if not given). Recall that the USB-6008 has a maximum sample rate
 of 10 kS/s for all channels combined.
 
-```myADC.sampleVoltages()``` returns a dictionary where the keys are the channel ids and
+```ADC.sampleVoltages()``` returns a dictionary where the keys are the channel ids and
 the values are the samples (as tuples):
 
 {{< figure src="samplevoltages.png" title="Figure: dictionary returned by sampleVoltages" lightbox="true" width="600" >}}
